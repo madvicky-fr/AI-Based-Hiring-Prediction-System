@@ -1,0 +1,1001 @@
+Resume_ID,Name,Skills,Experience_Years,Education,Certifications,Job_Role,Salary_Expectation,Projects_Count,Recruiter_Decision
+1,Candidate_1,"Machine Learning, C++, Python, Data Analysis",6,B.Sc,TensorFlow Certificate,Software Engineer,30860,3,1
+2,Candidate_2,"Java, Deep Learning, AWS, Cloud Computing",10,MBA,Google Data Analytics,ML Engineer,106820,7,1
+3,Candidate_3,"Data Analysis, Python",6,B.Tech,None,Data Analyst,112386,9,1
+4,Candidate_4,"Cloud Computing, SQL, AWS, Machine Learning",6,B.Tech,AWS Certified,Software Engineer,117498,10,1
+5,Candidate_5,"Power BI, C++, Machine Learning",7,M.Sc,AWS Certified,Cloud Engineer,74131,4,1
+6,Candidate_6,"Machine Learning, Python, AWS, SQL, C++",7,B.Sc,Microsoft Azure,Data Scientist,71090,7,1
+7,Candidate_7,"Machine Learning, SQL, C++",5,M.Sc,Microsoft Azure,ML Engineer,30769,4,1
+8,Candidate_8,"Power BI, Python, Deep Learning, Java",7,B.Tech,TensorFlow Certificate,ML Engineer,94925,11,1
+9,Candidate_9,"Data Analysis, C++, AWS",5,B.Tech,Microsoft Azure,Cloud Engineer,35311,1,1
+10,Candidate_10,"Cloud Computing, AWS, C++, Machine Learning, SQL",4,B.Tech,None,Software Engineer,83707,0,0
+11,Candidate_11,"Machine Learning, C++, AWS, Deep Learning",9,M.Tech,Microsoft Azure,Software Engineer,101932,5,1
+12,Candidate_12,"Power BI, Java, Cloud Computing, AWS, C++",8,B.Tech,Microsoft Azure,Data Scientist,55658,0,1
+13,Candidate_13,"SQL, AWS, Power BI",9,M.Sc,AWS Certified,Cloud Engineer,32747,11,1
+14,Candidate_14,"Cloud Computing, C++",2,MBA,None,Software Engineer,86886,11,0
+15,Candidate_15,"Python, Power BI, Deep Learning, Cloud Computing, C++",3,M.Sc,None,Data Scientist,41394,8,1
+16,Candidate_16,"Python, AWS, Cloud Computing, Data Analysis, SQL",4,B.Tech,AWS Certified,ML Engineer,71606,2,1
+17,Candidate_17,"Power BI, SQL",4,M.Sc,Microsoft Azure,Data Analyst,110038,8,1
+18,Candidate_18,"Power BI, Data Analysis",1,M.Tech,Google Data Analytics,Data Scientist,38792,3,0
+19,Candidate_19,"Java, Machine Learning, C++, Python, SQL",1,B.Tech,Google Data Analytics,Software Engineer,106552,9,1
+20,Candidate_20,"Python, AWS, Data Analysis, SQL, C++",9,M.Tech,TensorFlow Certificate,Cloud Engineer,53483,4,1
+21,Candidate_21,"C++, Power BI",6,B.Sc,TensorFlow Certificate,Software Engineer,47159,11,1
+22,Candidate_22,"Python, C++, SQL, Deep Learning, Java",2,MBA,TensorFlow Certificate,Cloud Engineer,65920,13,1
+23,Candidate_23,"AWS, Deep Learning, Cloud Computing, SQL",3,B.Tech,AWS Certified,Data Scientist,99479,1,1
+24,Candidate_24,"Java, Python, Power BI, AWS",3,B.Sc,AWS Certified,Data Scientist,96557,1,1
+25,Candidate_25,"SQL, Power BI, C++, Cloud Computing, Java",5,B.Sc,AWS Certified,Software Engineer,108953,5,1
+26,Candidate_26,"C++, Machine Learning, Python, Power BI",3,M.Sc,Microsoft Azure,Data Scientist,39692,5,1
+27,Candidate_27,"Machine Learning, Data Analysis",1,M.Sc,TensorFlow Certificate,ML Engineer,101211,9,1
+28,Candidate_28,"Cloud Computing, Machine Learning, Java, Data Analysis, C++",1,M.Sc,TensorFlow Certificate,Cloud Engineer,62606,9,1
+29,Candidate_29,"Machine Learning, Java",7,B.Sc,None,Data Scientist,31016,13,1
+30,Candidate_30,"Python, Machine Learning, AWS, Deep Learning, Java",7,M.Tech,None,Data Analyst,53247,4,1
+31,Candidate_31,"Deep Learning, Java, Machine Learning, Cloud Computing, C++",1,M.Tech,None,Data Scientist,39268,14,0
+32,Candidate_32,"AWS, Machine Learning, Data Analysis, Cloud Computing, Power BI",7,B.Tech,Microsoft Azure,Data Analyst,93704,9,1
+33,Candidate_33,"Machine Learning, SQL, Python, Data Analysis",8,MBA,AWS Certified,Software Engineer,81214,12,1
+34,Candidate_34,"Python, AWS, C++, Deep Learning",0,M.Sc,Google Data Analytics,Data Scientist,70774,8,1
+35,Candidate_35,"Cloud Computing, Power BI, Machine Learning, AWS",8,B.Sc,TensorFlow Certificate,Cloud Engineer,92592,7,1
+36,Candidate_36,"Python, Cloud Computing, AWS",7,M.Sc,None,Data Analyst,78190,7,1
+37,Candidate_37,"C++, Python, Cloud Computing",10,MBA,TensorFlow Certificate,ML Engineer,69504,2,1
+38,Candidate_38,"Power BI, C++, Python, AWS, Machine Learning",7,M.Sc,None,Data Analyst,91858,2,1
+39,Candidate_39,"Cloud Computing, Power BI, Python, Data Analysis, AWS",0,M.Sc,AWS Certified,Software Engineer,68660,10,1
+40,Candidate_40,"AWS, Data Analysis",9,MBA,Microsoft Azure,Data Scientist,94505,6,1
+41,Candidate_41,"AWS, Deep Learning",8,B.Sc,Google Data Analytics,Data Scientist,52662,11,1
+42,Candidate_42,"AWS, C++",8,MBA,Microsoft Azure,Data Scientist,108603,7,1
+43,Candidate_43,"Power BI, Data Analysis, Deep Learning, Machine Learning, C++",1,B.Sc,Microsoft Azure,ML Engineer,119135,0,0
+44,Candidate_44,"Python, Deep Learning",6,B.Sc,Google Data Analytics,Software Engineer,107373,6,1
+45,Candidate_45,"Cloud Computing, Machine Learning, Deep Learning, C++",7,MBA,AWS Certified,ML Engineer,114651,4,1
+46,Candidate_46,"AWS, Cloud Computing, Machine Learning, Data Analysis",7,M.Tech,TensorFlow Certificate,Cloud Engineer,54538,5,1
+47,Candidate_47,"C++, Java",2,B.Tech,Microsoft Azure,Cloud Engineer,38110,0,0
+48,Candidate_48,"Deep Learning, SQL, Machine Learning",2,B.Sc,Google Data Analytics,ML Engineer,112948,0,0
+49,Candidate_49,"Data Analysis, Python, Cloud Computing, Java, Power BI",9,MBA,TensorFlow Certificate,Data Analyst,36910,6,1
+50,Candidate_50,"Java, Deep Learning, Python",6,B.Sc,None,Data Analyst,30206,10,1
+51,Candidate_51,"Python, AWS, Power BI, C++, Cloud Computing",9,MBA,Microsoft Azure,Data Scientist,53419,9,1
+52,Candidate_52,"Data Analysis, SQL, Power BI, AWS",2,MBA,TensorFlow Certificate,Data Analyst,80015,14,1
+53,Candidate_53,"Java, Data Analysis, Cloud Computing, Power BI, C++",6,B.Tech,Microsoft Azure,Cloud Engineer,84268,0,1
+54,Candidate_54,"SQL, Data Analysis, Python, Deep Learning, AWS",3,B.Tech,Google Data Analytics,ML Engineer,110356,13,1
+55,Candidate_55,"Python, C++, SQL",6,M.Sc,Microsoft Azure,Data Scientist,86044,6,1
+56,Candidate_56,"SQL, Machine Learning",10,MBA,None,Data Analyst,63827,12,1
+57,Candidate_57,"C++, Power BI",6,MBA,Microsoft Azure,Software Engineer,52299,10,1
+58,Candidate_58,"Machine Learning, Data Analysis, Java, Python",1,B.Tech,Microsoft Azure,Cloud Engineer,94044,9,1
+59,Candidate_59,"Python, Power BI",8,MBA,AWS Certified,Software Engineer,32693,4,1
+60,Candidate_60,"Power BI, C++, Cloud Computing, AWS, Data Analysis",3,B.Tech,Microsoft Azure,Data Analyst,72941,13,1
+61,Candidate_61,"Java, Cloud Computing, Python, C++, Power BI",10,B.Tech,Microsoft Azure,Software Engineer,105766,9,1
+62,Candidate_62,"Deep Learning, Power BI, SQL",8,B.Tech,None,Software Engineer,53776,6,1
+63,Candidate_63,"AWS, Power BI, Python",0,M.Sc,AWS Certified,Data Scientist,96842,8,1
+64,Candidate_64,"Data Analysis, Java, Power BI",8,M.Tech,TensorFlow Certificate,Data Scientist,85016,3,1
+65,Candidate_65,"Power BI, Java, SQL, C++, Cloud Computing",2,B.Tech,AWS Certified,Cloud Engineer,88053,6,1
+66,Candidate_66,"Data Analysis, C++, SQL, Java",7,MBA,None,Data Analyst,33748,10,1
+67,Candidate_67,"Java, Python, Power BI, C++, AWS",0,MBA,None,Cloud Engineer,43545,2,0
+68,Candidate_68,"Java, Python",7,M.Tech,None,Data Analyst,103530,14,1
+69,Candidate_69,"Data Analysis, C++, Python, SQL",5,M.Sc,TensorFlow Certificate,Software Engineer,98840,7,1
+70,Candidate_70,"Python, Data Analysis, Java, C++, AWS",3,B.Sc,TensorFlow Certificate,Data Analyst,81005,0,1
+71,Candidate_71,"AWS, Python",0,M.Sc,Google Data Analytics,ML Engineer,92003,9,1
+72,Candidate_72,"Data Analysis, Java, C++, Power BI",6,M.Sc,None,Data Scientist,119474,1,0
+73,Candidate_73,"Deep Learning, Python, Data Analysis",0,B.Tech,Google Data Analytics,ML Engineer,115616,4,1
+74,Candidate_74,"C++, Power BI, SQL, Machine Learning, Data Analysis",7,M.Sc,Microsoft Azure,Software Engineer,56736,0,1
+75,Candidate_75,"Cloud Computing, SQL",1,B.Sc,Microsoft Azure,Cloud Engineer,30854,1,0
+76,Candidate_76,"SQL, AWS, Power BI",4,B.Tech,AWS Certified,Data Scientist,85680,0,1
+77,Candidate_77,"Power BI, Data Analysis",2,M.Sc,Microsoft Azure,Cloud Engineer,117092,13,1
+78,Candidate_78,"Power BI, Machine Learning",9,MBA,TensorFlow Certificate,Data Scientist,117455,5,1
+79,Candidate_79,"SQL, Machine Learning",6,B.Sc,Microsoft Azure,Cloud Engineer,82662,3,1
+80,Candidate_80,"AWS, SQL, Java",10,B.Tech,AWS Certified,Software Engineer,42688,7,1
+81,Candidate_81,"Java, C++, Python",5,B.Tech,None,Data Analyst,82083,7,1
+82,Candidate_82,"Deep Learning, Python, Machine Learning, Cloud Computing",1,M.Tech,None,Cloud Engineer,119045,5,1
+83,Candidate_83,"Power BI, AWS, Cloud Computing, Java, Deep Learning",10,B.Tech,None,Cloud Engineer,110623,14,1
+84,Candidate_84,"Python, Power BI, AWS, Machine Learning",0,MBA,TensorFlow Certificate,Data Scientist,72107,8,1
+85,Candidate_85,"SQL, Java, AWS",10,M.Sc,AWS Certified,Cloud Engineer,81663,5,1
+86,Candidate_86,"C++, AWS, SQL",2,B.Sc,Google Data Analytics,ML Engineer,32811,3,0
+87,Candidate_87,"SQL, AWS, Python",10,MBA,Google Data Analytics,Software Engineer,102082,3,1
+88,Candidate_88,"SQL, Java, Cloud Computing, C++",9,B.Tech,TensorFlow Certificate,Data Analyst,41411,2,1
+89,Candidate_89,"Data Analysis, Cloud Computing, Deep Learning, Java",6,MBA,None,Software Engineer,38680,3,0
+90,Candidate_90,"Deep Learning, Power BI, Data Analysis, Machine Learning",0,MBA,AWS Certified,Data Analyst,101295,7,1
+91,Candidate_91,"Machine Learning, Java, Cloud Computing",6,MBA,Google Data Analytics,ML Engineer,41111,1,1
+92,Candidate_92,"SQL, Machine Learning",0,M.Sc,Google Data Analytics,Data Scientist,38155,10,1
+93,Candidate_93,"Machine Learning, Data Analysis",8,M.Tech,AWS Certified,Cloud Engineer,77254,8,1
+94,Candidate_94,"SQL, AWS",9,MBA,Microsoft Azure,ML Engineer,46646,2,1
+95,Candidate_95,"C++, Machine Learning, SQL",9,M.Tech,None,Software Engineer,46371,8,1
+96,Candidate_96,"Java, Power BI, Cloud Computing, Machine Learning, Deep Learning",0,B.Tech,TensorFlow Certificate,Data Analyst,61616,1,0
+97,Candidate_97,"Machine Learning, Power BI, C++",4,B.Sc,Microsoft Azure,Software Engineer,59855,4,1
+98,Candidate_98,"Machine Learning, Cloud Computing, AWS, Data Analysis",10,B.Sc,Google Data Analytics,Data Scientist,73016,6,1
+99,Candidate_99,"Deep Learning, AWS",8,B.Sc,TensorFlow Certificate,Cloud Engineer,72642,2,1
+100,Candidate_100,"SQL, Deep Learning, C++, Cloud Computing, Data Analysis",2,B.Tech,TensorFlow Certificate,Software Engineer,36295,3,0
+101,Candidate_101,"C++, SQL",5,B.Tech,AWS Certified,Data Scientist,89040,7,1
+102,Candidate_102,"AWS, Machine Learning, Java",7,M.Tech,TensorFlow Certificate,Software Engineer,42874,3,1
+103,Candidate_103,"Deep Learning, Power BI, SQL, Machine Learning",0,MBA,Google Data Analytics,Software Engineer,35539,7,1
+104,Candidate_104,"SQL, Data Analysis, Machine Learning, Power BI",5,M.Tech,TensorFlow Certificate,ML Engineer,91267,7,1
+105,Candidate_105,"Java, Power BI",2,M.Tech,Microsoft Azure,ML Engineer,68360,13,1
+106,Candidate_106,"Data Analysis, C++",2,M.Tech,TensorFlow Certificate,Cloud Engineer,98497,8,1
+107,Candidate_107,"Python, Java, Machine Learning",1,B.Sc,TensorFlow Certificate,Data Analyst,32869,1,1
+108,Candidate_108,"C++, Java, Deep Learning, Python, Power BI",2,B.Sc,AWS Certified,Cloud Engineer,68467,12,1
+109,Candidate_109,"C++, Cloud Computing, Data Analysis",0,M.Sc,Microsoft Azure,Cloud Engineer,116831,13,1
+110,Candidate_110,"SQL, Deep Learning, AWS",3,B.Tech,None,Software Engineer,52399,7,1
+111,Candidate_111,"Python, AWS",7,B.Tech,Microsoft Azure,Data Analyst,116416,6,1
+112,Candidate_112,"Deep Learning, Data Analysis",0,B.Tech,Google Data Analytics,ML Engineer,70818,11,1
+113,Candidate_113,"AWS, SQL, Cloud Computing",5,B.Tech,Google Data Analytics,Cloud Engineer,47429,6,1
+114,Candidate_114,"AWS, Cloud Computing, C++, Power BI, SQL",5,MBA,Google Data Analytics,Software Engineer,33436,5,1
+115,Candidate_115,"Cloud Computing, SQL, Python, Java, Data Analysis",2,B.Sc,AWS Certified,Data Analyst,35895,5,1
+116,Candidate_116,"AWS, Python, SQL, Power BI, Data Analysis",10,B.Sc,None,Data Scientist,79377,10,1
+117,Candidate_117,"AWS, Java, Data Analysis, Machine Learning",4,MBA,None,ML Engineer,69790,13,1
+118,Candidate_118,"AWS, Power BI, Machine Learning, C++, Python",0,M.Sc,Microsoft Azure,Data Analyst,70764,4,1
+119,Candidate_119,"Python, Machine Learning",2,M.Sc,None,Data Scientist,103744,3,0
+120,Candidate_120,"Java, Machine Learning, SQL, Cloud Computing",4,M.Sc,Microsoft Azure,Data Analyst,77202,5,1
+121,Candidate_121,"C++, Power BI",8,M.Sc,None,Data Analyst,48711,4,0
+122,Candidate_122,"C++, Python, Machine Learning",0,MBA,TensorFlow Certificate,Data Scientist,75236,13,1
+123,Candidate_123,"SQL, Java, Machine Learning, C++",2,M.Tech,Microsoft Azure,Data Scientist,84240,11,1
+124,Candidate_124,"C++, Java",3,B.Tech,Microsoft Azure,ML Engineer,40492,14,1
+125,Candidate_125,"SQL, Cloud Computing, Python, Deep Learning",4,B.Tech,Microsoft Azure,Software Engineer,80336,6,1
+126,Candidate_126,"C++, Cloud Computing, Data Analysis, Java, SQL",2,B.Tech,TensorFlow Certificate,Cloud Engineer,64584,1,0
+127,Candidate_127,"C++, Data Analysis",9,B.Tech,TensorFlow Certificate,Data Scientist,53093,14,1
+128,Candidate_128,"Cloud Computing, Power BI, Machine Learning, SQL, Data Analysis",9,B.Tech,AWS Certified,ML Engineer,81885,2,1
+129,Candidate_129,"Machine Learning, AWS",7,MBA,Microsoft Azure,Software Engineer,102991,1,1
+130,Candidate_130,"SQL, C++",5,M.Tech,TensorFlow Certificate,ML Engineer,65777,6,1
+131,Candidate_131,"Python, Deep Learning, C++",10,M.Tech,None,Data Analyst,75017,9,1
+132,Candidate_132,"Java, Data Analysis, Python, Power BI, AWS",0,M.Tech,Google Data Analytics,Software Engineer,108069,7,1
+133,Candidate_133,"Python, Deep Learning",6,B.Tech,AWS Certified,Data Analyst,35801,12,1
+134,Candidate_134,"AWS, Deep Learning, Cloud Computing",6,B.Tech,None,Data Analyst,80993,9,1
+135,Candidate_135,"Deep Learning, Machine Learning, AWS, C++",8,M.Tech,Google Data Analytics,Data Scientist,38716,7,1
+136,Candidate_136,"C++, Machine Learning, Data Analysis",9,B.Tech,Google Data Analytics,Data Scientist,119912,6,1
+137,Candidate_137,"Java, Data Analysis",3,B.Sc,Microsoft Azure,Data Analyst,32368,12,1
+138,Candidate_138,"Deep Learning, Machine Learning, Data Analysis",7,M.Sc,AWS Certified,ML Engineer,100031,13,1
+139,Candidate_139,"AWS, Java",2,B.Tech,Microsoft Azure,Cloud Engineer,43403,6,1
+140,Candidate_140,"Data Analysis, Java, SQL",1,M.Sc,None,Software Engineer,40966,1,0
+141,Candidate_141,"Java, Python",5,B.Tech,Google Data Analytics,ML Engineer,82921,2,1
+142,Candidate_142,"Power BI, Python, Java",5,B.Sc,Microsoft Azure,Software Engineer,86661,9,1
+143,Candidate_143,"Data Analysis, Cloud Computing",0,M.Tech,AWS Certified,Data Scientist,100313,3,0
+144,Candidate_144,"AWS, Python, Java, Data Analysis, C++",5,M.Tech,Microsoft Azure,Cloud Engineer,45338,14,1
+145,Candidate_145,"Data Analysis, AWS, Machine Learning, Power BI, SQL",4,MBA,TensorFlow Certificate,Cloud Engineer,110135,0,1
+146,Candidate_146,"Cloud Computing, Machine Learning, Deep Learning",4,B.Sc,None,Data Analyst,33051,11,1
+147,Candidate_147,"Java, Data Analysis, AWS, C++",4,B.Tech,Microsoft Azure,Software Engineer,117235,6,1
+148,Candidate_148,"Data Analysis, Python, AWS, Deep Learning, Java",5,B.Tech,Microsoft Azure,Data Analyst,88335,12,1
+149,Candidate_149,"Deep Learning, Python, Java",3,MBA,Google Data Analytics,Cloud Engineer,99678,13,1
+150,Candidate_150,"C++, Python, Data Analysis, SQL, AWS",2,B.Tech,Microsoft Azure,Software Engineer,102615,6,1
+151,Candidate_151,"Python, SQL, Deep Learning, C++",3,B.Tech,Microsoft Azure,Data Scientist,47019,12,1
+152,Candidate_152,"Power BI, Deep Learning, Java, SQL",9,MBA,None,Cloud Engineer,116672,13,1
+153,Candidate_153,"AWS, Power BI, Deep Learning, Cloud Computing, C++",7,M.Sc,Google Data Analytics,Data Analyst,109634,14,1
+154,Candidate_154,"Java, Power BI",9,M.Sc,Google Data Analytics,Data Scientist,55945,6,1
+155,Candidate_155,"Machine Learning, C++, Python, Deep Learning",4,B.Sc,TensorFlow Certificate,Cloud Engineer,38308,9,1
+156,Candidate_156,"C++, Python",6,B.Sc,Microsoft Azure,Software Engineer,119480,14,1
+157,Candidate_157,"Machine Learning, C++, Cloud Computing, Python, SQL",4,M.Tech,Microsoft Azure,ML Engineer,96617,0,1
+158,Candidate_158,"Java, Cloud Computing, Python, AWS, Machine Learning",9,M.Tech,Google Data Analytics,Data Analyst,76175,0,1
+159,Candidate_159,"Data Analysis, Python, Java, Cloud Computing, SQL",5,B.Sc,AWS Certified,ML Engineer,75543,8,1
+160,Candidate_160,"AWS, Python, Java, Cloud Computing",4,B.Tech,None,ML Engineer,33343,0,1
+161,Candidate_161,"Deep Learning, Machine Learning, Power BI",6,MBA,TensorFlow Certificate,Data Analyst,46964,14,1
+162,Candidate_162,"Deep Learning, SQL, Power BI, AWS",5,M.Sc,Microsoft Azure,ML Engineer,89638,12,1
+163,Candidate_163,"Machine Learning, SQL, Power BI",2,M.Sc,None,ML Engineer,97215,11,0
+164,Candidate_164,"C++, Deep Learning, Java, Python",2,MBA,None,Data Scientist,102789,4,0
+165,Candidate_165,"Machine Learning, Python",8,MBA,AWS Certified,Cloud Engineer,91389,12,1
+166,Candidate_166,"AWS, Python, Cloud Computing, Machine Learning, SQL",4,B.Tech,None,Data Analyst,108832,14,1
+167,Candidate_167,"Machine Learning, Data Analysis",3,M.Tech,TensorFlow Certificate,Data Analyst,73919,4,1
+168,Candidate_168,"Machine Learning, Power BI, Deep Learning",9,MBA,TensorFlow Certificate,ML Engineer,65247,9,1
+169,Candidate_169,"Data Analysis, Cloud Computing, Python, C++",4,M.Sc,AWS Certified,Software Engineer,92752,6,1
+170,Candidate_170,"SQL, Java, C++",4,M.Tech,Microsoft Azure,Software Engineer,53049,6,1
+171,Candidate_171,"Cloud Computing, SQL",5,MBA,None,Software Engineer,98385,4,0
+172,Candidate_172,"Deep Learning, Machine Learning, Java, Cloud Computing",3,M.Tech,None,Data Analyst,95417,14,1
+173,Candidate_173,"Power BI, Cloud Computing",9,MBA,Microsoft Azure,Data Scientist,39823,2,1
+174,Candidate_174,"Data Analysis, Java, AWS, Cloud Computing",0,M.Sc,Google Data Analytics,Data Analyst,39540,7,1
+175,Candidate_175,"C++, Machine Learning, Deep Learning, Java",3,M.Tech,Google Data Analytics,Data Scientist,87679,7,1
+176,Candidate_176,"Data Analysis, Power BI, C++, Machine Learning",6,M.Sc,None,Software Engineer,79115,1,0
+177,Candidate_177,"Machine Learning, Python, Data Analysis",10,B.Sc,TensorFlow Certificate,ML Engineer,48071,3,1
+178,Candidate_178,"Java, Machine Learning",1,M.Sc,Microsoft Azure,Cloud Engineer,65195,2,0
+179,Candidate_179,"Power BI, SQL, Java, Machine Learning, Cloud Computing",0,B.Sc,Google Data Analytics,Cloud Engineer,100588,0,0
+180,Candidate_180,"Machine Learning, C++",2,M.Sc,Microsoft Azure,Cloud Engineer,68304,10,1
+181,Candidate_181,"Machine Learning, C++, SQL",7,B.Tech,Google Data Analytics,Software Engineer,112986,9,1
+182,Candidate_182,"Machine Learning, AWS, Python, Power BI",1,B.Sc,TensorFlow Certificate,Data Scientist,57350,12,1
+183,Candidate_183,"Power BI, Deep Learning, Machine Learning, Java",0,M.Sc,Google Data Analytics,Data Analyst,55351,9,1
+184,Candidate_184,"SQL, Deep Learning",9,B.Sc,Microsoft Azure,Software Engineer,105353,9,1
+185,Candidate_185,"C++, SQL, Java",1,B.Sc,TensorFlow Certificate,Data Scientist,50358,2,0
+186,Candidate_186,"Deep Learning, Java",3,MBA,Google Data Analytics,Data Analyst,119588,9,1
+187,Candidate_187,"Python, Deep Learning, Data Analysis",1,M.Sc,AWS Certified,Data Scientist,41338,12,1
+188,Candidate_188,"C++, Deep Learning, Cloud Computing, Python, AWS",7,M.Sc,Google Data Analytics,Cloud Engineer,63496,3,1
+189,Candidate_189,"C++, Power BI, Deep Learning, AWS",4,B.Sc,AWS Certified,ML Engineer,74425,12,1
+190,Candidate_190,"C++, AWS, Python, Cloud Computing, SQL",4,B.Sc,AWS Certified,Data Scientist,65735,8,1
+191,Candidate_191,"Data Analysis, SQL, Java",2,B.Sc,Google Data Analytics,Software Engineer,113042,0,0
+192,Candidate_192,"Deep Learning, C++, Data Analysis, Cloud Computing, Java",3,MBA,TensorFlow Certificate,Software Engineer,100640,1,1
+193,Candidate_193,"Python, Cloud Computing, Machine Learning",6,B.Tech,Microsoft Azure,Cloud Engineer,118726,7,1
+194,Candidate_194,"AWS, Data Analysis, C++, Python",4,M.Sc,AWS Certified,Data Analyst,66208,11,1
+195,Candidate_195,"AWS, SQL",6,M.Sc,AWS Certified,Cloud Engineer,73286,12,1
+196,Candidate_196,"Python, Cloud Computing, C++, AWS",8,MBA,None,Cloud Engineer,51352,2,1
+197,Candidate_197,"AWS, Java, Deep Learning, Data Analysis, SQL",0,B.Tech,AWS Certified,Data Analyst,44397,0,0
+198,Candidate_198,"Python, Java",3,M.Tech,Google Data Analytics,ML Engineer,80517,8,1
+199,Candidate_199,"C++, Cloud Computing",10,M.Sc,Google Data Analytics,Data Scientist,77280,2,1
+200,Candidate_200,"SQL, AWS, Deep Learning, Python, Power BI",3,MBA,TensorFlow Certificate,Cloud Engineer,93932,11,1
+201,Candidate_201,"Power BI, Data Analysis",8,M.Tech,None,Data Scientist,66939,2,0
+202,Candidate_202,"Java, Cloud Computing, AWS",8,M.Sc,TensorFlow Certificate,Data Scientist,89163,6,1
+203,Candidate_203,"Power BI, Data Analysis, AWS, Java, C++",3,B.Tech,Microsoft Azure,Data Analyst,90921,2,1
+204,Candidate_204,"AWS, Cloud Computing",4,M.Tech,Microsoft Azure,Data Analyst,119112,4,1
+205,Candidate_205,"C++, SQL, Machine Learning, Python, Data Analysis",3,M.Sc,AWS Certified,Cloud Engineer,117508,10,1
+206,Candidate_206,"Power BI, Data Analysis, Machine Learning",3,M.Tech,AWS Certified,Data Scientist,90566,4,1
+207,Candidate_207,"Machine Learning, AWS, Power BI, Java",8,B.Sc,None,Data Scientist,114076,6,1
+208,Candidate_208,"SQL, Machine Learning, AWS, Data Analysis, C++",4,MBA,Microsoft Azure,Cloud Engineer,51689,9,1
+209,Candidate_209,"Data Analysis, Deep Learning, Power BI, Python",6,B.Sc,Microsoft Azure,Data Scientist,39348,13,1
+210,Candidate_210,"Machine Learning, SQL, Data Analysis, Java",2,B.Sc,Google Data Analytics,Software Engineer,104460,6,1
+211,Candidate_211,"Cloud Computing, SQL, Java, Machine Learning",10,MBA,AWS Certified,Data Analyst,36801,10,1
+212,Candidate_212,"Machine Learning, C++, SQL",8,B.Sc,AWS Certified,Software Engineer,112873,9,1
+213,Candidate_213,"Data Analysis, Machine Learning",0,M.Sc,None,Software Engineer,74261,12,0
+214,Candidate_214,"Java, C++",6,B.Sc,Google Data Analytics,Software Engineer,76732,13,1
+215,Candidate_215,"Python, C++, AWS",7,B.Tech,Google Data Analytics,Cloud Engineer,92856,9,1
+216,Candidate_216,"Python, SQL, AWS, Deep Learning, C++",1,M.Tech,TensorFlow Certificate,ML Engineer,49065,10,1
+217,Candidate_217,"Deep Learning, C++",1,M.Sc,TensorFlow Certificate,Software Engineer,118092,4,0
+218,Candidate_218,"Deep Learning, Machine Learning, Power BI, AWS",4,M.Sc,Google Data Analytics,ML Engineer,56962,5,1
+219,Candidate_219,"Cloud Computing, SQL, Data Analysis, Machine Learning",7,MBA,Microsoft Azure,ML Engineer,56432,12,1
+220,Candidate_220,"AWS, Java, C++",5,M.Sc,AWS Certified,ML Engineer,87854,3,1
+221,Candidate_221,"C++, Deep Learning, Cloud Computing",6,B.Sc,Microsoft Azure,ML Engineer,31324,8,1
+222,Candidate_222,"AWS, Power BI, C++",3,MBA,AWS Certified,Software Engineer,65909,3,1
+223,Candidate_223,"Deep Learning, SQL, Cloud Computing, Power BI, Machine Learning",2,M.Sc,Google Data Analytics,Software Engineer,56790,12,1
+224,Candidate_224,"Cloud Computing, SQL, Deep Learning, AWS, Data Analysis",10,M.Sc,AWS Certified,Data Scientist,85129,9,1
+225,Candidate_225,"Cloud Computing, Python, Java",2,B.Tech,TensorFlow Certificate,Data Scientist,45485,6,1
+226,Candidate_226,"SQL, Cloud Computing",2,B.Sc,AWS Certified,Software Engineer,34748,12,1
+227,Candidate_227,"Java, Machine Learning, Cloud Computing, Deep Learning",1,MBA,None,ML Engineer,33709,11,0
+228,Candidate_228,"Deep Learning, SQL",9,M.Sc,TensorFlow Certificate,Software Engineer,85771,3,1
+229,Candidate_229,"SQL, Cloud Computing, Power BI, AWS",7,B.Tech,TensorFlow Certificate,ML Engineer,55470,12,1
+230,Candidate_230,"Python, AWS, Deep Learning, SQL, Data Analysis",8,B.Tech,AWS Certified,Data Scientist,82224,6,1
+231,Candidate_231,"Machine Learning, AWS",2,M.Sc,TensorFlow Certificate,Software Engineer,110219,12,1
+232,Candidate_232,"Machine Learning, Python, Data Analysis, Cloud Computing, AWS",8,B.Tech,AWS Certified,Data Analyst,58016,14,1
+233,Candidate_233,"Cloud Computing, Python, Machine Learning",8,M.Tech,Google Data Analytics,Data Scientist,112848,7,1
+234,Candidate_234,"Python, AWS, Cloud Computing, Data Analysis, Power BI",5,B.Tech,TensorFlow Certificate,ML Engineer,97641,4,1
+235,Candidate_235,"Cloud Computing, C++",4,M.Tech,AWS Certified,Data Scientist,91642,5,1
+236,Candidate_236,"Python, C++, Machine Learning, AWS",4,B.Tech,AWS Certified,ML Engineer,60354,3,1
+237,Candidate_237,"Cloud Computing, Power BI, SQL, Java, Deep Learning",3,M.Sc,AWS Certified,ML Engineer,101726,8,1
+238,Candidate_238,"Cloud Computing, Python",8,B.Tech,Microsoft Azure,Data Scientist,68413,0,1
+239,Candidate_239,"SQL, Data Analysis, Cloud Computing",0,B.Sc,Microsoft Azure,Data Analyst,98866,4,0
+240,Candidate_240,"Python, Cloud Computing, SQL, AWS",6,M.Tech,Microsoft Azure,Software Engineer,37114,8,1
+241,Candidate_241,"Data Analysis, SQL, Java, Python, Machine Learning",9,M.Tech,Google Data Analytics,Data Scientist,53959,7,1
+242,Candidate_242,"AWS, Java",4,MBA,TensorFlow Certificate,Data Scientist,39337,7,1
+243,Candidate_243,"Machine Learning, Python, C++, Deep Learning",3,M.Sc,AWS Certified,ML Engineer,114665,9,1
+244,Candidate_244,"C++, Data Analysis, Power BI, Deep Learning",1,B.Tech,TensorFlow Certificate,Data Analyst,57355,11,1
+245,Candidate_245,"Python, Deep Learning, SQL",4,MBA,AWS Certified,ML Engineer,34835,8,1
+246,Candidate_246,"SQL, Power BI, C++, Java",10,M.Tech,TensorFlow Certificate,Cloud Engineer,68088,5,1
+247,Candidate_247,"SQL, Machine Learning",0,M.Sc,AWS Certified,Data Analyst,87043,4,0
+248,Candidate_248,"Deep Learning, Python, Machine Learning",2,M.Tech,AWS Certified,Data Analyst,75445,12,1
+249,Candidate_249,"Power BI, SQL, Deep Learning, C++",1,B.Tech,TensorFlow Certificate,ML Engineer,79407,2,0
+250,Candidate_250,"C++, AWS",4,B.Sc,AWS Certified,Software Engineer,105672,14,1
+251,Candidate_251,"C++, Deep Learning, Machine Learning, Cloud Computing, Power BI",1,M.Tech,TensorFlow Certificate,Data Scientist,114791,9,1
+252,Candidate_252,"Cloud Computing, Deep Learning, AWS, Data Analysis, SQL",1,M.Tech,None,Software Engineer,67892,10,0
+253,Candidate_253,"Java, C++, Machine Learning, Power BI",6,MBA,TensorFlow Certificate,Data Analyst,91813,7,1
+254,Candidate_254,"Deep Learning, Machine Learning",0,M.Sc,Microsoft Azure,Software Engineer,38415,1,0
+255,Candidate_255,"Deep Learning, C++, Data Analysis, AWS",0,MBA,None,Data Scientist,92292,10,0
+256,Candidate_256,"AWS, Cloud Computing, Data Analysis, Deep Learning",9,M.Tech,Microsoft Azure,ML Engineer,92680,14,1
+257,Candidate_257,"Power BI, C++, Java, AWS",5,B.Tech,None,ML Engineer,102474,10,1
+258,Candidate_258,"Cloud Computing, Java, Python, Machine Learning, Data Analysis",0,B.Sc,TensorFlow Certificate,Cloud Engineer,50384,12,1
+259,Candidate_259,"Power BI, Data Analysis",1,M.Tech,None,Data Scientist,38702,8,0
+260,Candidate_260,"Machine Learning, AWS",0,M.Sc,Google Data Analytics,Data Scientist,70943,4,0
+261,Candidate_261,"Cloud Computing, Power BI, C++",6,B.Tech,None,Software Engineer,42763,5,1
+262,Candidate_262,"AWS, Machine Learning, Deep Learning",0,B.Sc,TensorFlow Certificate,Data Analyst,39860,4,0
+263,Candidate_263,"Power BI, SQL, C++, Java",5,M.Tech,AWS Certified,ML Engineer,80612,2,1
+264,Candidate_264,"Machine Learning, Data Analysis",6,MBA,TensorFlow Certificate,Software Engineer,99172,4,1
+265,Candidate_265,"Data Analysis, Cloud Computing, SQL, Java",4,MBA,AWS Certified,Cloud Engineer,62201,9,1
+266,Candidate_266,"Power BI, Deep Learning, Python, C++, Data Analysis",2,B.Tech,Microsoft Azure,Data Scientist,86397,0,1
+267,Candidate_267,"C++, AWS, Python, Java",8,M.Tech,Google Data Analytics,ML Engineer,64816,13,1
+268,Candidate_268,"AWS, SQL, Data Analysis, Python",2,MBA,None,Software Engineer,47100,12,1
+269,Candidate_269,"C++, Deep Learning, SQL, Data Analysis, Java",3,MBA,None,Cloud Engineer,100080,13,1
+270,Candidate_270,"Machine Learning, Cloud Computing, Python",0,M.Tech,Google Data Analytics,Software Engineer,66187,7,1
+271,Candidate_271,"SQL, Deep Learning, C++",7,M.Tech,Microsoft Azure,Data Scientist,44489,6,1
+272,Candidate_272,"Data Analysis, C++, Cloud Computing, Python, Power BI",9,MBA,Google Data Analytics,Data Scientist,91877,1,1
+273,Candidate_273,"C++, Machine Learning, Power BI",5,M.Sc,Google Data Analytics,ML Engineer,62049,2,1
+274,Candidate_274,"Java, Python",0,B.Sc,TensorFlow Certificate,ML Engineer,103963,5,1
+275,Candidate_275,"Python, Data Analysis, Java, AWS",4,B.Tech,None,Software Engineer,54285,13,1
+276,Candidate_276,"Java, SQL, Deep Learning",10,M.Sc,Google Data Analytics,ML Engineer,118464,8,1
+277,Candidate_277,"AWS, Data Analysis, Power BI, C++, Deep Learning",6,M.Tech,Microsoft Azure,Data Scientist,31252,14,1
+278,Candidate_278,"AWS, C++, Cloud Computing, Power BI, Machine Learning",4,MBA,AWS Certified,Data Scientist,67441,13,1
+279,Candidate_279,"AWS, Java",10,B.Tech,TensorFlow Certificate,Data Analyst,89494,2,1
+280,Candidate_280,"SQL, AWS, Data Analysis",5,MBA,None,Software Engineer,36949,11,1
+281,Candidate_281,"Python, Java",1,B.Tech,Microsoft Azure,Software Engineer,103553,1,1
+282,Candidate_282,"SQL, Power BI, Python, C++",10,B.Sc,TensorFlow Certificate,Data Scientist,91886,2,1
+283,Candidate_283,"Cloud Computing, Deep Learning, Java, Python, Data Analysis",1,B.Sc,None,Data Scientist,83413,3,0
+284,Candidate_284,"AWS, Cloud Computing, Python, Power BI, Machine Learning",0,M.Sc,Google Data Analytics,Software Engineer,72318,7,1
+285,Candidate_285,"Deep Learning, SQL",6,M.Tech,Microsoft Azure,ML Engineer,73088,9,1
+286,Candidate_286,"SQL, Cloud Computing, AWS, Data Analysis, Machine Learning",4,M.Tech,None,Data Scientist,69811,12,1
+287,Candidate_287,"Java, Data Analysis, Python, Machine Learning",9,B.Sc,TensorFlow Certificate,Software Engineer,115392,7,1
+288,Candidate_288,"Python, AWS, Deep Learning",9,B.Sc,AWS Certified,Data Analyst,49963,0,1
+289,Candidate_289,"Deep Learning, Java",3,M.Sc,TensorFlow Certificate,ML Engineer,103477,7,1
+290,Candidate_290,"SQL, Data Analysis, Java, C++, Machine Learning",4,B.Sc,Google Data Analytics,Data Scientist,99836,1,1
+291,Candidate_291,"Deep Learning, Python, Java, SQL, Machine Learning",10,M.Sc,AWS Certified,Data Scientist,42015,10,1
+292,Candidate_292,"Cloud Computing, Power BI, SQL, Machine Learning, Deep Learning",10,B.Tech,Google Data Analytics,Data Scientist,36254,2,1
+293,Candidate_293,"Machine Learning, Java",8,MBA,Google Data Analytics,Data Analyst,110719,6,1
+294,Candidate_294,"Data Analysis, AWS",10,MBA,TensorFlow Certificate,ML Engineer,52415,5,1
+295,Candidate_295,"Machine Learning, Java, Python, Deep Learning",7,M.Sc,None,Software Engineer,71240,3,1
+296,Candidate_296,"Deep Learning, C++, Python, Cloud Computing",2,M.Tech,AWS Certified,Cloud Engineer,63434,2,1
+297,Candidate_297,"Machine Learning, Python, Data Analysis",1,B.Sc,AWS Certified,Data Scientist,41314,12,1
+298,Candidate_298,"Power BI, C++, SQL, Cloud Computing",2,B.Sc,Microsoft Azure,Cloud Engineer,117044,4,0
+299,Candidate_299,"Machine Learning, Java, Python, Deep Learning",1,B.Tech,AWS Certified,Software Engineer,66668,11,1
+300,Candidate_300,"C++, Cloud Computing, AWS",5,B.Sc,AWS Certified,ML Engineer,69749,4,1
+301,Candidate_301,"Cloud Computing, Power BI, Machine Learning, Java, Deep Learning",0,MBA,Microsoft Azure,ML Engineer,46907,4,0
+302,Candidate_302,"Deep Learning, Machine Learning, Power BI",9,M.Sc,Google Data Analytics,ML Engineer,81745,13,1
+303,Candidate_303,"AWS, Deep Learning, C++, SQL, Data Analysis",0,MBA,Microsoft Azure,Cloud Engineer,111818,13,1
+304,Candidate_304,"Data Analysis, Java, AWS, Deep Learning",8,M.Tech,TensorFlow Certificate,Software Engineer,40488,9,1
+305,Candidate_305,"Java, AWS, Deep Learning, Machine Learning, Cloud Computing",8,B.Sc,TensorFlow Certificate,Data Scientist,40478,5,1
+306,Candidate_306,"Python, Data Analysis, C++, Machine Learning, Deep Learning",7,MBA,AWS Certified,Software Engineer,49262,13,1
+307,Candidate_307,"Python, C++, Deep Learning, Data Analysis",0,M.Sc,None,Cloud Engineer,94291,9,1
+308,Candidate_308,"SQL, Cloud Computing, Data Analysis, AWS, Deep Learning",0,M.Sc,None,Cloud Engineer,109714,7,0
+309,Candidate_309,"Power BI, Data Analysis, Machine Learning",3,B.Sc,AWS Certified,Software Engineer,30302,14,1
+310,Candidate_310,"Cloud Computing, Machine Learning",7,B.Sc,Google Data Analytics,Cloud Engineer,38717,5,1
+311,Candidate_311,"AWS, Python",9,B.Tech,Google Data Analytics,Data Scientist,103686,11,1
+312,Candidate_312,"Python, Power BI",7,B.Tech,None,ML Engineer,46748,1,1
+313,Candidate_313,"AWS, Deep Learning",9,M.Tech,Microsoft Azure,Data Analyst,45034,13,1
+314,Candidate_314,"Python, Java, Machine Learning, Data Analysis",7,B.Sc,AWS Certified,Data Analyst,35126,2,1
+315,Candidate_315,"Cloud Computing, AWS, SQL",2,B.Tech,None,Software Engineer,112838,14,0
+316,Candidate_316,"SQL, Machine Learning",10,B.Sc,AWS Certified,Data Analyst,97067,14,1
+317,Candidate_317,"Power BI, SQL, Python",1,B.Sc,TensorFlow Certificate,Data Analyst,118869,9,1
+318,Candidate_318,"Java, SQL, Python",2,B.Sc,Google Data Analytics,Data Analyst,65854,2,1
+319,Candidate_319,"Java, Deep Learning, Power BI",8,MBA,Google Data Analytics,Cloud Engineer,40267,6,1
+320,Candidate_320,"Deep Learning, Machine Learning, AWS, Power BI",9,MBA,AWS Certified,ML Engineer,80448,6,1
+321,Candidate_321,"C++, Power BI, Data Analysis, AWS, Java",6,M.Tech,None,Data Scientist,86793,5,1
+322,Candidate_322,"Java, Data Analysis, Power BI, SQL, Cloud Computing",8,M.Sc,TensorFlow Certificate,ML Engineer,33596,0,1
+323,Candidate_323,"Cloud Computing, Data Analysis, Deep Learning, Python, C++",3,B.Tech,Microsoft Azure,Data Analyst,37561,8,1
+324,Candidate_324,"Deep Learning, Cloud Computing, Power BI, Machine Learning",2,M.Sc,Google Data Analytics,ML Engineer,56734,8,1
+325,Candidate_325,"Python, Java",3,M.Sc,None,ML Engineer,56069,14,1
+326,Candidate_326,"Data Analysis, Power BI, SQL, Java, AWS",1,M.Sc,Microsoft Azure,Data Analyst,103479,14,1
+327,Candidate_327,"Python, Data Analysis, Deep Learning, Power BI, Machine Learning",7,B.Sc,TensorFlow Certificate,Data Scientist,53275,0,1
+328,Candidate_328,"Cloud Computing, C++, AWS",2,MBA,Google Data Analytics,Software Engineer,90004,9,1
+329,Candidate_329,"Machine Learning, Data Analysis, C++, SQL, Deep Learning",5,M.Tech,Microsoft Azure,Data Analyst,84553,3,1
+330,Candidate_330,"Data Analysis, Python, Cloud Computing",1,B.Sc,Microsoft Azure,Data Scientist,105703,10,1
+331,Candidate_331,"Power BI, Cloud Computing",10,M.Tech,Microsoft Azure,Data Scientist,33812,12,1
+332,Candidate_332,"Power BI, SQL, AWS, C++",8,B.Sc,None,Software Engineer,57285,0,0
+333,Candidate_333,"Deep Learning, Power BI, Java, Python",4,B.Sc,Microsoft Azure,Software Engineer,31605,5,1
+334,Candidate_334,"C++, Python, Data Analysis, AWS",6,B.Sc,TensorFlow Certificate,ML Engineer,107149,3,1
+335,Candidate_335,"Deep Learning, Python, Data Analysis, Java",10,B.Tech,Google Data Analytics,Software Engineer,106125,13,1
+336,Candidate_336,"Power BI, Data Analysis, Deep Learning",7,B.Sc,AWS Certified,Data Analyst,43046,6,1
+337,Candidate_337,"Data Analysis, SQL, Deep Learning",2,B.Sc,None,ML Engineer,34324,2,0
+338,Candidate_338,"Machine Learning, Python, Java, Power BI",3,B.Tech,Google Data Analytics,Data Scientist,68110,7,1
+339,Candidate_339,"Data Analysis, Python, AWS, Machine Learning, Power BI",5,MBA,AWS Certified,Software Engineer,71427,1,1
+340,Candidate_340,"Data Analysis, Power BI, C++",10,M.Tech,TensorFlow Certificate,Data Analyst,117886,3,1
+341,Candidate_341,"Data Analysis, Deep Learning, AWS, Power BI, C++",5,MBA,Google Data Analytics,ML Engineer,114471,5,1
+342,Candidate_342,"C++, Java, Power BI, Cloud Computing",5,B.Tech,AWS Certified,Data Scientist,83441,2,1
+343,Candidate_343,"Cloud Computing, SQL, Data Analysis, Python",10,M.Tech,Microsoft Azure,Data Scientist,76514,7,1
+344,Candidate_344,"Java, SQL, Power BI",4,M.Sc,None,Data Scientist,60105,5,1
+345,Candidate_345,"Java, Python, Power BI",5,M.Tech,AWS Certified,Software Engineer,88067,3,1
+346,Candidate_346,"SQL, Cloud Computing, AWS, Java, Machine Learning",0,M.Tech,None,Data Analyst,66976,3,0
+347,Candidate_347,"Deep Learning, Python, Cloud Computing, AWS",0,M.Tech,TensorFlow Certificate,Software Engineer,108477,9,1
+348,Candidate_348,"Java, Deep Learning",5,B.Tech,AWS Certified,Data Scientist,31917,4,1
+349,Candidate_349,"C++, Python, Data Analysis, SQL",10,B.Tech,AWS Certified,Cloud Engineer,77362,14,1
+350,Candidate_350,"Power BI, Python, SQL",0,B.Tech,Microsoft Azure,Software Engineer,89383,5,1
+351,Candidate_351,"SQL, Deep Learning, Machine Learning",9,M.Sc,Google Data Analytics,Software Engineer,117958,4,1
+352,Candidate_352,"Power BI, SQL",9,M.Sc,Google Data Analytics,Data Analyst,69809,11,1
+353,Candidate_353,"C++, Java, Python",7,M.Sc,Microsoft Azure,Data Scientist,64387,1,1
+354,Candidate_354,"Deep Learning, Python, Cloud Computing",0,M.Tech,TensorFlow Certificate,Software Engineer,93076,14,1
+355,Candidate_355,"SQL, Data Analysis",8,B.Tech,Microsoft Azure,ML Engineer,109767,0,1
+356,Candidate_356,"SQL, Java, AWS, Machine Learning, Cloud Computing",5,B.Tech,Google Data Analytics,Software Engineer,66258,6,1
+357,Candidate_357,"Data Analysis, Machine Learning, Deep Learning, Cloud Computing",0,MBA,AWS Certified,Data Analyst,42219,4,0
+358,Candidate_358,"Java, C++, Machine Learning, Power BI",1,MBA,TensorFlow Certificate,ML Engineer,97444,13,1
+359,Candidate_359,"Machine Learning, Power BI",7,MBA,Microsoft Azure,Software Engineer,100792,10,1
+360,Candidate_360,"Cloud Computing, Machine Learning, AWS, Data Analysis",1,B.Sc,TensorFlow Certificate,Data Analyst,103698,11,1
+361,Candidate_361,"Java, Python, Power BI, Data Analysis, Machine Learning",2,M.Tech,Microsoft Azure,Software Engineer,35415,0,1
+362,Candidate_362,"Java, AWS, Python",5,MBA,AWS Certified,Data Analyst,35951,11,1
+363,Candidate_363,"Cloud Computing, SQL",7,MBA,Google Data Analytics,Data Scientist,71832,10,1
+364,Candidate_364,"Python, Machine Learning, SQL",4,B.Tech,Microsoft Azure,Cloud Engineer,60523,13,1
+365,Candidate_365,"Cloud Computing, Machine Learning, Python, SQL",2,MBA,TensorFlow Certificate,Cloud Engineer,45524,4,1
+366,Candidate_366,"Data Analysis, Power BI, Machine Learning, AWS",4,MBA,Google Data Analytics,Data Analyst,53930,2,1
+367,Candidate_367,"Machine Learning, SQL",9,B.Tech,None,ML Engineer,50611,13,1
+368,Candidate_368,"Power BI, AWS, Java, Python, C++",8,B.Tech,Google Data Analytics,Cloud Engineer,112985,12,1
+369,Candidate_369,"Deep Learning, AWS",8,B.Sc,TensorFlow Certificate,Software Engineer,73303,1,1
+370,Candidate_370,"Data Analysis, Machine Learning",7,M.Sc,None,Software Engineer,59287,6,1
+371,Candidate_371,"Power BI, Machine Learning, Cloud Computing, Data Analysis",2,M.Sc,None,Data Scientist,102101,12,0
+372,Candidate_372,"C++, Cloud Computing, Data Analysis",0,B.Tech,AWS Certified,Data Analyst,48574,6,1
+373,Candidate_373,"SQL, Python, Data Analysis",0,B.Sc,None,Software Engineer,97728,8,1
+374,Candidate_374,"Cloud Computing, SQL, Java, Power BI",0,M.Sc,Microsoft Azure,ML Engineer,75558,14,1
+375,Candidate_375,"Power BI, Deep Learning, Python, Machine Learning, C++",1,M.Sc,AWS Certified,Software Engineer,66455,13,1
+376,Candidate_376,"C++, Python, Data Analysis",7,M.Tech,None,ML Engineer,41302,2,1
+377,Candidate_377,"Deep Learning, Python, Cloud Computing, Data Analysis, Machine Learning",2,B.Sc,TensorFlow Certificate,Cloud Engineer,84917,5,1
+378,Candidate_378,"Python, C++, SQL, Data Analysis, Cloud Computing",2,M.Tech,Microsoft Azure,Data Analyst,113122,6,1
+379,Candidate_379,"AWS, Python, Data Analysis, Java, Deep Learning",7,B.Tech,None,Data Analyst,117487,9,1
+380,Candidate_380,"Cloud Computing, Java",3,M.Tech,AWS Certified,ML Engineer,101324,14,1
+381,Candidate_381,"Java, Data Analysis, Power BI, Deep Learning, Cloud Computing",0,M.Tech,Microsoft Azure,Cloud Engineer,55053,3,0
+382,Candidate_382,"Java, Data Analysis, SQL, C++, Deep Learning",6,M.Tech,None,Software Engineer,81356,10,1
+383,Candidate_383,"Python, Data Analysis, Power BI",5,M.Sc,Google Data Analytics,ML Engineer,96656,8,1
+384,Candidate_384,"Python, C++, Machine Learning",4,M.Sc,Google Data Analytics,Data Scientist,112870,10,1
+385,Candidate_385,"Deep Learning, SQL, Cloud Computing, C++",0,M.Tech,Google Data Analytics,ML Engineer,97779,13,1
+386,Candidate_386,"Power BI, Machine Learning",5,M.Sc,TensorFlow Certificate,Data Scientist,62265,1,1
+387,Candidate_387,"AWS, Java",4,B.Sc,Google Data Analytics,ML Engineer,73872,10,1
+388,Candidate_388,"Machine Learning, AWS, C++",5,B.Sc,None,Software Engineer,85180,5,1
+389,Candidate_389,"Machine Learning, AWS, SQL",3,MBA,TensorFlow Certificate,Cloud Engineer,101895,12,1
+390,Candidate_390,"Python, Cloud Computing, C++",3,B.Sc,AWS Certified,Software Engineer,50103,7,1
+391,Candidate_391,"Data Analysis, Deep Learning, SQL",4,M.Tech,TensorFlow Certificate,Cloud Engineer,44382,12,1
+392,Candidate_392,"AWS, Python, Java",3,M.Tech,AWS Certified,ML Engineer,33756,11,1
+393,Candidate_393,"C++, Power BI, Python",1,MBA,Google Data Analytics,Data Analyst,46478,10,1
+394,Candidate_394,"Deep Learning, Python, Cloud Computing, C++",2,MBA,TensorFlow Certificate,Cloud Engineer,105683,2,1
+395,Candidate_395,"AWS, Cloud Computing, Machine Learning",3,B.Tech,Microsoft Azure,Cloud Engineer,101315,9,1
+396,Candidate_396,"Deep Learning, Machine Learning, C++, Data Analysis",10,MBA,None,Cloud Engineer,44153,13,1
+397,Candidate_397,"Machine Learning, Deep Learning, C++",7,M.Tech,TensorFlow Certificate,Data Scientist,42999,5,1
+398,Candidate_398,"SQL, Cloud Computing",6,B.Sc,Google Data Analytics,Data Scientist,106077,14,1
+399,Candidate_399,"Data Analysis, Java, Python, Cloud Computing, SQL",10,MBA,TensorFlow Certificate,Cloud Engineer,105993,11,1
+400,Candidate_400,"AWS, Data Analysis, Power BI, Deep Learning",7,MBA,Google Data Analytics,Data Analyst,47368,13,1
+401,Candidate_401,"C++, Data Analysis",0,M.Tech,Microsoft Azure,Software Engineer,57306,14,1
+402,Candidate_402,"Data Analysis, SQL, AWS, Power BI, Python",3,B.Tech,AWS Certified,ML Engineer,94644,3,1
+403,Candidate_403,"C++, AWS",7,M.Tech,Google Data Analytics,Software Engineer,30126,4,1
+404,Candidate_404,"Data Analysis, SQL",9,MBA,Google Data Analytics,Cloud Engineer,95310,0,1
+405,Candidate_405,"Data Analysis, Power BI, Machine Learning, AWS, Python",9,M.Sc,AWS Certified,Cloud Engineer,116066,8,1
+406,Candidate_406,"SQL, Java",7,M.Sc,AWS Certified,Cloud Engineer,33797,8,1
+407,Candidate_407,"C++, AWS, Cloud Computing",10,M.Tech,None,Software Engineer,64560,6,1
+408,Candidate_408,"Java, Machine Learning, Python",4,B.Sc,AWS Certified,Data Analyst,31645,4,1
+409,Candidate_409,"C++, Power BI, Cloud Computing",3,M.Tech,TensorFlow Certificate,Data Scientist,49256,5,1
+410,Candidate_410,"SQL, Power BI, Python, C++, AWS",0,B.Sc,AWS Certified,Software Engineer,83173,14,1
+411,Candidate_411,"SQL, C++, Cloud Computing, Machine Learning",6,B.Sc,Google Data Analytics,Data Scientist,93374,2,1
+412,Candidate_412,"Cloud Computing, Java, Data Analysis",4,MBA,AWS Certified,Data Analyst,86264,14,1
+413,Candidate_413,"Data Analysis, Java, Python",4,MBA,Microsoft Azure,Cloud Engineer,87545,8,1
+414,Candidate_414,"SQL, Power BI, Machine Learning, C++",3,MBA,None,Data Analyst,43224,8,1
+415,Candidate_415,"Machine Learning, Java, SQL",2,M.Tech,Google Data Analytics,Data Analyst,93731,14,1
+416,Candidate_416,"Java, SQL, Deep Learning, Python, Power BI",8,B.Sc,TensorFlow Certificate,ML Engineer,103509,9,1
+417,Candidate_417,"Machine Learning, AWS",1,B.Sc,Google Data Analytics,Data Scientist,38666,6,1
+418,Candidate_418,"Python, C++, SQL, AWS, Machine Learning",1,B.Tech,Microsoft Azure,Data Analyst,66368,10,1
+419,Candidate_419,"Cloud Computing, Power BI, AWS, Java",10,M.Tech,Microsoft Azure,ML Engineer,100507,10,1
+420,Candidate_420,"Machine Learning, AWS, Python, Java",10,MBA,Microsoft Azure,ML Engineer,97526,2,1
+421,Candidate_421,"Cloud Computing, Deep Learning",3,M.Sc,None,Data Analyst,49956,5,1
+422,Candidate_422,"Power BI, Java, Machine Learning, Data Analysis, Python",7,B.Sc,Microsoft Azure,ML Engineer,67148,0,1
+423,Candidate_423,"Deep Learning, AWS, Python, SQL",10,MBA,AWS Certified,Data Analyst,49097,5,1
+424,Candidate_424,"Deep Learning, Java",1,M.Tech,Microsoft Azure,Data Analyst,57696,4,0
+425,Candidate_425,"AWS, Data Analysis, Power BI",6,MBA,TensorFlow Certificate,Data Scientist,76163,0,1
+426,Candidate_426,"Python, Deep Learning",8,B.Tech,Google Data Analytics,ML Engineer,82853,0,1
+427,Candidate_427,"Power BI, SQL, Deep Learning",5,B.Tech,AWS Certified,Cloud Engineer,51566,11,1
+428,Candidate_428,"Cloud Computing, Data Analysis, Java",7,MBA,None,Cloud Engineer,50806,0,0
+429,Candidate_429,"Machine Learning, Power BI, Deep Learning, Data Analysis",0,MBA,AWS Certified,Data Analyst,71949,12,1
+430,Candidate_430,"Cloud Computing, Data Analysis, Power BI, SQL, Deep Learning",6,B.Sc,TensorFlow Certificate,Data Analyst,54442,2,1
+431,Candidate_431,"Machine Learning, Java",7,M.Tech,Microsoft Azure,Software Engineer,32079,2,1
+432,Candidate_432,"Cloud Computing, AWS, Power BI, Deep Learning",0,M.Tech,TensorFlow Certificate,Data Analyst,72460,12,1
+433,Candidate_433,"Deep Learning, Machine Learning, C++, Cloud Computing",7,MBA,Microsoft Azure,Data Scientist,48449,2,1
+434,Candidate_434,"AWS, Data Analysis, Power BI, Machine Learning, C++",0,M.Sc,AWS Certified,Software Engineer,68258,13,1
+435,Candidate_435,"AWS, SQL, Cloud Computing, Data Analysis",1,B.Sc,TensorFlow Certificate,Data Scientist,36645,1,0
+436,Candidate_436,"Machine Learning, AWS",0,M.Sc,TensorFlow Certificate,Data Scientist,41485,1,0
+437,Candidate_437,"SQL, Java",5,MBA,None,ML Engineer,95155,2,0
+438,Candidate_438,"Cloud Computing, SQL, Deep Learning, Python, Data Analysis",0,M.Sc,Microsoft Azure,Software Engineer,42342,7,1
+439,Candidate_439,"Cloud Computing, Machine Learning, SQL, AWS",6,B.Sc,Google Data Analytics,Software Engineer,108623,2,1
+440,Candidate_440,"SQL, AWS, C++, Power BI, Java",9,MBA,Google Data Analytics,Data Analyst,105629,9,1
+441,Candidate_441,"C++, Python",1,M.Sc,AWS Certified,Data Analyst,111974,11,1
+442,Candidate_442,"Cloud Computing, Deep Learning, AWS, Power BI, Machine Learning",1,M.Sc,None,Cloud Engineer,111244,6,0
+443,Candidate_443,"Deep Learning, Machine Learning",7,B.Sc,TensorFlow Certificate,ML Engineer,106534,0,1
+444,Candidate_444,"SQL, Python, Cloud Computing",2,M.Sc,TensorFlow Certificate,Data Analyst,60678,7,1
+445,Candidate_445,"C++, SQL, Java",10,B.Tech,None,ML Engineer,104055,14,1
+446,Candidate_446,"Python, SQL, AWS",5,MBA,AWS Certified,Data Scientist,115230,8,1
+447,Candidate_447,"C++, Machine Learning, Power BI, Data Analysis, AWS",4,B.Sc,TensorFlow Certificate,ML Engineer,69986,2,1
+448,Candidate_448,"Machine Learning, Python, SQL",0,M.Sc,None,Software Engineer,109111,11,1
+449,Candidate_449,"C++, AWS, Power BI, Data Analysis, Machine Learning",1,M.Tech,Google Data Analytics,Cloud Engineer,64911,2,0
+450,Candidate_450,"SQL, Data Analysis",7,M.Tech,None,Software Engineer,105039,13,1
+451,Candidate_451,"C++, Deep Learning, Python",7,MBA,Google Data Analytics,Cloud Engineer,114458,13,1
+452,Candidate_452,"Python, Deep Learning, AWS, Power BI, Machine Learning",3,B.Tech,None,Cloud Engineer,116925,3,1
+453,Candidate_453,"Deep Learning, Power BI, C++",6,B.Sc,None,Cloud Engineer,36150,1,0
+454,Candidate_454,"Java, Cloud Computing, Power BI, SQL, Data Analysis",9,B.Tech,AWS Certified,Data Scientist,46032,6,1
+455,Candidate_455,"C++, Power BI",6,M.Tech,TensorFlow Certificate,Data Analyst,83394,4,1
+456,Candidate_456,"Cloud Computing, Java, Power BI",2,B.Sc,Google Data Analytics,Cloud Engineer,80460,3,0
+457,Candidate_457,"Power BI, SQL",1,M.Sc,Google Data Analytics,Data Scientist,72880,1,0
+458,Candidate_458,"SQL, Cloud Computing, Data Analysis, Power BI, Machine Learning",4,B.Sc,TensorFlow Certificate,Data Analyst,115514,3,1
+459,Candidate_459,"Data Analysis, Deep Learning, Power BI, Cloud Computing, Machine Learning",9,M.Tech,AWS Certified,Data Analyst,106918,14,1
+460,Candidate_460,"Python, Cloud Computing, Java",3,M.Sc,AWS Certified,ML Engineer,63572,4,1
+461,Candidate_461,"Machine Learning, C++, SQL, Power BI",5,M.Sc,AWS Certified,Software Engineer,92516,13,1
+462,Candidate_462,"SQL, Machine Learning, Power BI, C++",2,M.Tech,Google Data Analytics,Data Scientist,47771,3,0
+463,Candidate_463,"Java, SQL, Machine Learning, C++",7,B.Sc,None,Software Engineer,78285,0,0
+464,Candidate_464,"Power BI, Java, Cloud Computing, Python, C++",7,MBA,AWS Certified,ML Engineer,116143,10,1
+465,Candidate_465,"Machine Learning, SQL, Deep Learning, C++",0,M.Sc,None,Software Engineer,65954,1,0
+466,Candidate_466,"Java, Deep Learning, Machine Learning, Data Analysis",0,M.Sc,TensorFlow Certificate,Cloud Engineer,108344,13,1
+467,Candidate_467,"C++, AWS",7,B.Sc,Microsoft Azure,Data Analyst,90774,1,1
+468,Candidate_468,"Power BI, Data Analysis, Java, C++, Cloud Computing",8,M.Tech,TensorFlow Certificate,ML Engineer,47685,5,1
+469,Candidate_469,"Cloud Computing, SQL",10,B.Sc,TensorFlow Certificate,Software Engineer,85961,13,1
+470,Candidate_470,"AWS, Data Analysis, Machine Learning",9,B.Sc,TensorFlow Certificate,ML Engineer,106908,12,1
+471,Candidate_471,"AWS, Power BI, Python, Machine Learning, Data Analysis",1,M.Tech,None,Data Analyst,104532,6,1
+472,Candidate_472,"Data Analysis, Deep Learning, C++, Java, Cloud Computing",10,B.Sc,TensorFlow Certificate,Data Analyst,91268,5,1
+473,Candidate_473,"Data Analysis, Cloud Computing, C++, Machine Learning",9,MBA,Microsoft Azure,ML Engineer,87384,3,1
+474,Candidate_474,"C++, Java, SQL, Data Analysis, Deep Learning",5,M.Tech,TensorFlow Certificate,ML Engineer,69952,1,1
+475,Candidate_475,"C++, Power BI, Java, Python, SQL",4,M.Tech,Google Data Analytics,ML Engineer,108411,8,1
+476,Candidate_476,"Deep Learning, Java, Cloud Computing, SQL",6,B.Sc,Google Data Analytics,Data Analyst,70809,4,1
+477,Candidate_477,"Power BI, Machine Learning, Data Analysis",5,B.Sc,TensorFlow Certificate,Software Engineer,81226,4,1
+478,Candidate_478,"SQL, Python",8,M.Tech,Google Data Analytics,Data Scientist,112565,14,1
+479,Candidate_479,"Cloud Computing, Java, Machine Learning, Deep Learning, Data Analysis",10,B.Sc,None,Software Engineer,76828,7,1
+480,Candidate_480,"C++, Python, Java, Deep Learning",8,M.Tech,TensorFlow Certificate,Software Engineer,104182,4,1
+481,Candidate_481,"Java, SQL, Machine Learning, Power BI",9,MBA,None,Data Analyst,41664,12,1
+482,Candidate_482,"C++, Data Analysis, Java, AWS",9,M.Sc,TensorFlow Certificate,Data Scientist,119563,4,1
+483,Candidate_483,"Deep Learning, Machine Learning, Power BI, Cloud Computing, C++",9,M.Sc,TensorFlow Certificate,ML Engineer,116145,13,1
+484,Candidate_484,"Data Analysis, Deep Learning, C++",5,B.Sc,AWS Certified,Cloud Engineer,91120,10,1
+485,Candidate_485,"SQL, Deep Learning, Machine Learning, C++, Data Analysis",2,B.Tech,Google Data Analytics,ML Engineer,41555,4,0
+486,Candidate_486,"Deep Learning, Power BI, SQL, Java, AWS",2,MBA,Google Data Analytics,Cloud Engineer,83276,9,1
+487,Candidate_487,"Java, Data Analysis, Python",4,B.Sc,TensorFlow Certificate,Software Engineer,119599,10,1
+488,Candidate_488,"Deep Learning, Cloud Computing, SQL, Data Analysis, Power BI",3,MBA,AWS Certified,Cloud Engineer,54762,0,1
+489,Candidate_489,"SQL, Deep Learning, Java",6,M.Tech,TensorFlow Certificate,Cloud Engineer,58769,7,1
+490,Candidate_490,"Java, Cloud Computing, C++, Power BI",6,MBA,None,Software Engineer,98247,14,1
+491,Candidate_491,"Power BI, Java, Data Analysis",5,B.Sc,TensorFlow Certificate,ML Engineer,119399,5,1
+492,Candidate_492,"Data Analysis, Deep Learning, Java, C++, SQL",0,B.Sc,Google Data Analytics,Data Scientist,104478,9,1
+493,Candidate_493,"Machine Learning, Deep Learning, SQL, AWS, Cloud Computing",3,B.Tech,Google Data Analytics,Software Engineer,97298,2,1
+494,Candidate_494,"Java, Power BI, Cloud Computing, Deep Learning",3,B.Tech,Microsoft Azure,Software Engineer,42112,10,1
+495,Candidate_495,"Python, SQL, Data Analysis, Power BI, AWS",10,M.Tech,AWS Certified,Data Scientist,68890,12,1
+496,Candidate_496,"Power BI, Data Analysis",1,MBA,Google Data Analytics,Data Scientist,62921,8,1
+497,Candidate_497,"Java, C++, Machine Learning, Cloud Computing, SQL",1,B.Sc,None,Data Analyst,45048,4,0
+498,Candidate_498,"AWS, Power BI, Cloud Computing, Python",7,M.Sc,Microsoft Azure,Cloud Engineer,84912,0,1
+499,Candidate_499,"Deep Learning, Cloud Computing",8,M.Sc,None,ML Engineer,104666,12,1
+500,Candidate_500,"AWS, Cloud Computing, Java, Python, SQL",7,MBA,AWS Certified,Software Engineer,43350,9,1
+501,Candidate_501,"Power BI, Data Analysis, Machine Learning, Cloud Computing, AWS",2,M.Sc,Google Data Analytics,Cloud Engineer,58145,2,0
+502,Candidate_502,"SQL, C++, Python",4,M.Tech,AWS Certified,Data Analyst,105186,11,1
+503,Candidate_503,"Java, SQL, C++",5,B.Sc,Microsoft Azure,Data Scientist,53051,1,1
+504,Candidate_504,"Python, SQL, Data Analysis, Deep Learning, Cloud Computing",2,MBA,Microsoft Azure,Data Analyst,99626,4,1
+505,Candidate_505,"Java, AWS",0,MBA,Microsoft Azure,Cloud Engineer,51520,12,1
+506,Candidate_506,"Java, Python",9,MBA,TensorFlow Certificate,Data Analyst,87134,8,1
+507,Candidate_507,"Data Analysis, Cloud Computing, Deep Learning",7,M.Sc,TensorFlow Certificate,Data Analyst,101431,2,1
+508,Candidate_508,"Power BI, Deep Learning, AWS",4,M.Tech,TensorFlow Certificate,Data Analyst,31750,0,1
+509,Candidate_509,"Data Analysis, Java, C++, AWS",4,B.Sc,Microsoft Azure,Data Scientist,88053,5,1
+510,Candidate_510,"AWS, Cloud Computing",7,M.Tech,Microsoft Azure,ML Engineer,85761,8,1
+511,Candidate_511,"Cloud Computing, Machine Learning, Power BI, Data Analysis",8,B.Sc,None,ML Engineer,107454,11,1
+512,Candidate_512,"Machine Learning, Cloud Computing",10,B.Sc,AWS Certified,ML Engineer,57935,9,1
+513,Candidate_513,"AWS, Java",9,B.Tech,Microsoft Azure,Software Engineer,42182,6,1
+514,Candidate_514,"AWS, Cloud Computing, Java, Python, SQL",9,B.Sc,Microsoft Azure,Data Scientist,49541,4,1
+515,Candidate_515,"Python, Java, SQL",9,M.Tech,Microsoft Azure,Cloud Engineer,74813,6,1
+516,Candidate_516,"Machine Learning, Power BI, Deep Learning, Data Analysis",4,B.Tech,Google Data Analytics,Data Analyst,99768,6,1
+517,Candidate_517,"SQL, Java",2,M.Sc,Google Data Analytics,Data Scientist,113441,7,1
+518,Candidate_518,"Java, Python",10,MBA,Microsoft Azure,Cloud Engineer,36737,6,1
+519,Candidate_519,"Power BI, Machine Learning, AWS, C++",3,B.Sc,TensorFlow Certificate,Software Engineer,49426,6,1
+520,Candidate_520,"Cloud Computing, Deep Learning, AWS, C++, Python",1,M.Tech,None,Data Scientist,96150,10,1
+521,Candidate_521,"Java, Cloud Computing",0,B.Sc,AWS Certified,Data Scientist,104910,13,1
+522,Candidate_522,"Power BI, SQL",7,MBA,Microsoft Azure,ML Engineer,65435,2,1
+523,Candidate_523,"Machine Learning, C++, SQL, Java, Data Analysis",1,B.Sc,AWS Certified,Data Scientist,32983,2,0
+524,Candidate_524,"C++, Cloud Computing, AWS, Java, SQL",9,M.Sc,None,Software Engineer,53510,6,1
+525,Candidate_525,"Machine Learning, Python",6,B.Tech,AWS Certified,ML Engineer,36640,14,1
+526,Candidate_526,"AWS, C++, Machine Learning, Power BI, Data Analysis",3,M.Tech,None,Cloud Engineer,45317,12,1
+527,Candidate_527,"Machine Learning, Java, Cloud Computing, SQL, Deep Learning",8,MBA,None,ML Engineer,57345,12,1
+528,Candidate_528,"Power BI, AWS, C++",0,B.Tech,TensorFlow Certificate,Data Scientist,109273,12,1
+529,Candidate_529,"C++, Deep Learning, Python, SQL",1,B.Tech,Google Data Analytics,Cloud Engineer,82393,6,1
+530,Candidate_530,"AWS, SQL, Data Analysis, Java",1,MBA,AWS Certified,ML Engineer,59430,13,1
+531,Candidate_531,"Python, AWS, C++, Java, Deep Learning",1,MBA,None,Data Analyst,69974,2,0
+532,Candidate_532,"Data Analysis, Machine Learning, Cloud Computing, C++",3,M.Tech,TensorFlow Certificate,Data Scientist,59629,12,1
+533,Candidate_533,"Deep Learning, Python, C++, Power BI",0,B.Sc,Microsoft Azure,Data Analyst,103972,12,1
+534,Candidate_534,"AWS, C++",8,M.Tech,Microsoft Azure,ML Engineer,113691,7,1
+535,Candidate_535,"C++, Python, AWS",8,MBA,Google Data Analytics,ML Engineer,80072,9,1
+536,Candidate_536,"Power BI, SQL, Java, Deep Learning, Data Analysis",6,M.Tech,Microsoft Azure,Data Analyst,42676,3,1
+537,Candidate_537,"Cloud Computing, Machine Learning, Python",0,B.Tech,None,ML Engineer,115680,13,1
+538,Candidate_538,"Java, Deep Learning",2,MBA,AWS Certified,Data Analyst,63933,12,1
+539,Candidate_539,"Cloud Computing, SQL",7,M.Sc,None,Data Analyst,64801,13,1
+540,Candidate_540,"SQL, Deep Learning, Data Analysis, AWS, Java",3,M.Tech,AWS Certified,Software Engineer,70600,1,1
+541,Candidate_541,"C++, Machine Learning",0,MBA,TensorFlow Certificate,Data Scientist,65400,4,0
+542,Candidate_542,"Deep Learning, AWS, Power BI, C++, Data Analysis",0,B.Tech,None,Data Analyst,119431,8,0
+543,Candidate_543,"Data Analysis, Power BI",3,M.Tech,TensorFlow Certificate,Software Engineer,73001,11,1
+544,Candidate_544,"Python, SQL, AWS, Machine Learning",4,MBA,TensorFlow Certificate,Data Scientist,75028,12,1
+545,Candidate_545,"Java, Data Analysis, Deep Learning",10,MBA,Microsoft Azure,Cloud Engineer,67573,11,1
+546,Candidate_546,"Java, Cloud Computing, AWS, SQL",6,B.Sc,Microsoft Azure,Software Engineer,86638,7,1
+547,Candidate_547,"Python, Cloud Computing",7,B.Tech,AWS Certified,Data Analyst,59757,10,1
+548,Candidate_548,"Python, Machine Learning, Cloud Computing, Java, AWS",1,MBA,AWS Certified,Cloud Engineer,54262,8,1
+549,Candidate_549,"Machine Learning, Python, Java, SQL, Power BI",3,B.Sc,AWS Certified,Software Engineer,84842,3,1
+550,Candidate_550,"Machine Learning, Power BI, Java",7,B.Tech,Google Data Analytics,Data Analyst,111470,3,1
+551,Candidate_551,"AWS, C++, Python, Machine Learning, Data Analysis",5,MBA,AWS Certified,Cloud Engineer,94754,4,1
+552,Candidate_552,"Machine Learning, AWS",9,B.Tech,None,Software Engineer,91665,10,1
+553,Candidate_553,"Data Analysis, Python, Power BI",8,MBA,AWS Certified,Software Engineer,112856,9,1
+554,Candidate_554,"Machine Learning, Java",0,B.Tech,AWS Certified,Data Analyst,85554,9,1
+555,Candidate_555,"Power BI, SQL, Deep Learning, C++, Machine Learning",7,M.Tech,None,Data Analyst,111412,5,1
+556,Candidate_556,"Java, SQL, Cloud Computing",4,B.Tech,Microsoft Azure,Data Analyst,102750,5,1
+557,Candidate_557,"Java, Python, Power BI, AWS",6,MBA,TensorFlow Certificate,Cloud Engineer,76600,0,1
+558,Candidate_558,"Machine Learning, Python, Cloud Computing, Java",2,MBA,Google Data Analytics,Data Scientist,48297,3,1
+559,Candidate_559,"Python, Java, C++, Cloud Computing, Data Analysis",0,MBA,Microsoft Azure,Cloud Engineer,72874,12,1
+560,Candidate_560,"Java, C++, Power BI, SQL, AWS",9,B.Sc,Google Data Analytics,Software Engineer,55425,2,1
+561,Candidate_561,"Power BI, Machine Learning, Data Analysis, Cloud Computing, Deep Learning",0,B.Tech,TensorFlow Certificate,Data Analyst,54578,7,1
+562,Candidate_562,"SQL, Data Analysis, AWS, Cloud Computing",2,B.Tech,Microsoft Azure,Data Scientist,84028,5,1
+563,Candidate_563,"Machine Learning, Power BI, Cloud Computing, Data Analysis, Java",7,M.Sc,AWS Certified,Data Analyst,105758,12,1
+564,Candidate_564,"SQL, Deep Learning",8,B.Tech,TensorFlow Certificate,Cloud Engineer,64701,8,1
+565,Candidate_565,"Power BI, Cloud Computing, AWS",4,B.Tech,AWS Certified,Data Analyst,47674,1,1
+566,Candidate_566,"Data Analysis, Cloud Computing, C++, Power BI, Deep Learning",8,B.Tech,TensorFlow Certificate,ML Engineer,53874,7,1
+567,Candidate_567,"Machine Learning, AWS, Python, Data Analysis",10,M.Sc,AWS Certified,Data Scientist,95160,11,1
+568,Candidate_568,"SQL, Deep Learning",2,M.Sc,None,Data Scientist,118801,8,0
+569,Candidate_569,"Machine Learning, Python, SQL, Data Analysis",9,B.Sc,Google Data Analytics,Data Scientist,76542,8,1
+570,Candidate_570,"Cloud Computing, Deep Learning, Machine Learning",7,B.Sc,None,Data Analyst,94772,8,1
+571,Candidate_571,"Java, SQL, C++, Power BI",10,B.Tech,Google Data Analytics,Data Analyst,111121,10,1
+572,Candidate_572,"C++, SQL, Deep Learning, Cloud Computing",7,MBA,None,Data Analyst,63742,11,1
+573,Candidate_573,"Power BI, SQL, AWS, C++",5,B.Sc,Google Data Analytics,Cloud Engineer,51754,7,1
+574,Candidate_574,"C++, Data Analysis",4,B.Tech,None,Software Engineer,71873,9,1
+575,Candidate_575,"Cloud Computing, Power BI",5,B.Sc,AWS Certified,Cloud Engineer,39903,4,1
+576,Candidate_576,"Java, Power BI, C++, Deep Learning",4,M.Tech,Microsoft Azure,Data Analyst,75648,12,1
+577,Candidate_577,"Deep Learning, Power BI, SQL",1,B.Sc,Microsoft Azure,ML Engineer,39516,7,1
+578,Candidate_578,"SQL, AWS",2,B.Tech,AWS Certified,Data Scientist,31591,9,1
+579,Candidate_579,"Data Analysis, SQL, AWS",7,M.Tech,None,Data Analyst,101719,1,0
+580,Candidate_580,"Power BI, SQL",10,B.Sc,AWS Certified,ML Engineer,116231,12,1
+581,Candidate_581,"Data Analysis, C++, SQL",2,B.Sc,AWS Certified,Data Scientist,97675,7,1
+582,Candidate_582,"Data Analysis, AWS, C++",0,M.Tech,Microsoft Azure,Cloud Engineer,95082,10,1
+583,Candidate_583,"Machine Learning, AWS, Python, Cloud Computing",8,B.Sc,Microsoft Azure,ML Engineer,63130,12,1
+584,Candidate_584,"AWS, Python, Java",8,B.Tech,Google Data Analytics,Data Scientist,116206,4,1
+585,Candidate_585,"Cloud Computing, AWS, C++, Java, Machine Learning",10,M.Tech,Google Data Analytics,Data Analyst,83947,5,1
+586,Candidate_586,"Java, Machine Learning, Deep Learning, Cloud Computing, Python",6,B.Sc,TensorFlow Certificate,Software Engineer,78874,4,1
+587,Candidate_587,"Power BI, Data Analysis, Deep Learning, C++",9,MBA,AWS Certified,Data Scientist,79138,8,1
+588,Candidate_588,"Data Analysis, Machine Learning",6,M.Tech,Google Data Analytics,Software Engineer,32719,9,1
+589,Candidate_589,"AWS, Deep Learning, Java, Python, Data Analysis",10,B.Tech,AWS Certified,ML Engineer,66509,4,1
+590,Candidate_590,"AWS, SQL, Deep Learning, Cloud Computing",6,M.Sc,TensorFlow Certificate,Software Engineer,48787,14,1
+591,Candidate_591,"Java, Data Analysis",1,MBA,TensorFlow Certificate,Data Scientist,87932,13,1
+592,Candidate_592,"Data Analysis, Python, AWS, Cloud Computing, Java",6,MBA,None,Cloud Engineer,117263,1,1
+593,Candidate_593,"AWS, Data Analysis, Cloud Computing, Machine Learning, Python",10,M.Tech,None,Cloud Engineer,64832,0,1
+594,Candidate_594,"C++, AWS, Data Analysis, Python",7,B.Sc,TensorFlow Certificate,Data Analyst,102545,14,1
+595,Candidate_595,"Cloud Computing, AWS, SQL",7,M.Tech,Google Data Analytics,Data Scientist,31007,12,1
+596,Candidate_596,"AWS, Data Analysis, Deep Learning, Java, Python",5,B.Sc,Microsoft Azure,ML Engineer,77517,2,1
+597,Candidate_597,"SQL, Power BI, Python",6,M.Sc,AWS Certified,Software Engineer,117272,9,1
+598,Candidate_598,"C++, Cloud Computing, Java",1,B.Sc,AWS Certified,ML Engineer,31435,14,1
+599,Candidate_599,"Deep Learning, C++, AWS, SQL",4,B.Sc,None,Cloud Engineer,112197,12,1
+600,Candidate_600,"Data Analysis, Power BI, Python",3,M.Sc,Google Data Analytics,Data Scientist,113807,3,1
+601,Candidate_601,"Deep Learning, Cloud Computing, SQL, Power BI, Data Analysis",3,B.Sc,None,Data Analyst,37491,1,0
+602,Candidate_602,"C++, AWS, Cloud Computing",10,B.Sc,TensorFlow Certificate,ML Engineer,110395,0,1
+603,Candidate_603,"Java, Machine Learning, C++",5,M.Tech,Microsoft Azure,Software Engineer,103609,0,1
+604,Candidate_604,"Data Analysis, Power BI, Machine Learning, AWS, SQL",5,MBA,AWS Certified,Data Analyst,50953,0,1
+605,Candidate_605,"C++, Java, Machine Learning, Deep Learning, AWS",7,M.Tech,Google Data Analytics,Software Engineer,97889,10,1
+606,Candidate_606,"C++, SQL, Power BI, Cloud Computing",3,B.Sc,TensorFlow Certificate,Data Scientist,117266,10,1
+607,Candidate_607,"Power BI, Data Analysis, Deep Learning, Cloud Computing, AWS",3,M.Tech,None,Data Scientist,57083,12,1
+608,Candidate_608,"Java, Deep Learning, Python, Power BI",6,M.Sc,AWS Certified,Data Analyst,74064,12,1
+609,Candidate_609,"SQL, Power BI, C++, Python",5,M.Sc,Google Data Analytics,Data Analyst,57082,14,1
+610,Candidate_610,"Python, SQL, AWS",9,MBA,Microsoft Azure,Software Engineer,74569,6,1
+611,Candidate_611,"Machine Learning, C++, Deep Learning",1,M.Tech,AWS Certified,ML Engineer,43025,13,1
+612,Candidate_612,"AWS, Cloud Computing, Machine Learning, C++, Python",3,M.Sc,Microsoft Azure,Software Engineer,119186,0,1
+613,Candidate_613,"C++, SQL",8,M.Sc,Microsoft Azure,Data Scientist,98878,6,1
+614,Candidate_614,"Deep Learning, Java, Data Analysis",6,M.Sc,Google Data Analytics,Data Scientist,105932,12,1
+615,Candidate_615,"Deep Learning, SQL, Machine Learning, Cloud Computing, Data Analysis",10,B.Tech,AWS Certified,Data Analyst,80975,3,1
+616,Candidate_616,"Deep Learning, Data Analysis",1,M.Sc,Microsoft Azure,ML Engineer,108797,14,1
+617,Candidate_617,"AWS, Python, Cloud Computing, SQL, Deep Learning",3,M.Tech,AWS Certified,ML Engineer,107258,5,1
+618,Candidate_618,"Machine Learning, SQL",10,B.Tech,None,ML Engineer,74413,2,0
+619,Candidate_619,"Machine Learning, AWS, Cloud Computing, Python",7,M.Tech,Microsoft Azure,Data Analyst,63756,11,1
+620,Candidate_620,"Data Analysis, AWS, Machine Learning, Power BI",4,B.Tech,None,Data Scientist,111871,14,1
+621,Candidate_621,"Cloud Computing, Deep Learning, Power BI, Java, SQL",4,M.Sc,TensorFlow Certificate,Cloud Engineer,83331,10,1
+622,Candidate_622,"Deep Learning, Data Analysis, SQL, C++",5,B.Sc,Microsoft Azure,Data Analyst,93416,2,1
+623,Candidate_623,"Deep Learning, AWS, Python, C++",4,B.Sc,TensorFlow Certificate,Data Analyst,35626,2,1
+624,Candidate_624,"Data Analysis, Machine Learning, Power BI, Cloud Computing, Python",0,M.Sc,None,Data Analyst,49982,9,1
+625,Candidate_625,"AWS, Cloud Computing, Deep Learning",1,M.Sc,Google Data Analytics,Data Scientist,78290,12,1
+626,Candidate_626,"Python, C++, Machine Learning, SQL, Power BI",0,M.Sc,AWS Certified,Data Scientist,112711,8,1
+627,Candidate_627,"Data Analysis, Python, SQL, AWS, Java",1,B.Sc,Google Data Analytics,Software Engineer,53019,14,1
+628,Candidate_628,"AWS, Python, C++, Cloud Computing",10,MBA,TensorFlow Certificate,Software Engineer,51563,7,1
+629,Candidate_629,"Power BI, C++, Data Analysis",8,B.Sc,Google Data Analytics,Data Scientist,66444,0,1
+630,Candidate_630,"Java, Cloud Computing",4,M.Tech,TensorFlow Certificate,Software Engineer,104318,7,1
+631,Candidate_631,"C++, Machine Learning, Deep Learning, Python, AWS",10,M.Sc,None,ML Engineer,115553,13,1
+632,Candidate_632,"Power BI, Java",3,B.Tech,AWS Certified,Data Scientist,91788,6,1
+633,Candidate_633,"AWS, Machine Learning",4,M.Tech,TensorFlow Certificate,ML Engineer,74859,7,1
+634,Candidate_634,"AWS, Python",9,M.Sc,None,ML Engineer,45251,2,1
+635,Candidate_635,"Python, Power BI",8,B.Sc,Google Data Analytics,Data Scientist,41536,13,1
+636,Candidate_636,"Java, SQL, Cloud Computing, AWS, Python",3,M.Sc,AWS Certified,Data Analyst,38712,3,1
+637,Candidate_637,"C++, Cloud Computing",5,B.Sc,None,Data Scientist,35109,8,1
+638,Candidate_638,"SQL, Machine Learning",4,B.Sc,TensorFlow Certificate,Data Scientist,84615,4,1
+639,Candidate_639,"Power BI, SQL, Cloud Computing, Java, Data Analysis",7,B.Tech,TensorFlow Certificate,Data Scientist,59759,10,1
+640,Candidate_640,"SQL, Python, Java, Cloud Computing, Data Analysis",0,M.Sc,AWS Certified,Software Engineer,56589,7,1
+641,Candidate_641,"Machine Learning, C++, Java, Deep Learning, Data Analysis",1,B.Sc,Microsoft Azure,ML Engineer,92046,13,1
+642,Candidate_642,"SQL, Data Analysis, AWS, Machine Learning",5,B.Sc,AWS Certified,ML Engineer,51804,10,1
+643,Candidate_643,"Data Analysis, SQL, Power BI, Java",8,M.Sc,Google Data Analytics,Data Analyst,81195,0,1
+644,Candidate_644,"Cloud Computing, Machine Learning, AWS, Data Analysis",5,M.Tech,Microsoft Azure,Cloud Engineer,60087,8,1
+645,Candidate_645,"Python, Java, Data Analysis",10,MBA,Microsoft Azure,Data Analyst,99298,5,1
+646,Candidate_646,"Machine Learning, Java, Python, Deep Learning",7,M.Tech,AWS Certified,Software Engineer,73408,8,1
+647,Candidate_647,"Cloud Computing, Power BI, Deep Learning, C++",8,MBA,Microsoft Azure,Data Scientist,68559,13,1
+648,Candidate_648,"Machine Learning, AWS, Power BI, C++",5,M.Sc,Microsoft Azure,Data Analyst,78787,5,1
+649,Candidate_649,"Cloud Computing, SQL, Machine Learning, Java, Power BI",0,B.Sc,TensorFlow Certificate,ML Engineer,104663,9,1
+650,Candidate_650,"Machine Learning, Python, AWS, C++, Java",1,B.Sc,None,Data Scientist,79153,11,1
+651,Candidate_651,"Machine Learning, C++, SQL, Cloud Computing",0,B.Tech,None,Cloud Engineer,75004,0,0
+652,Candidate_652,"Power BI, SQL",0,MBA,AWS Certified,Data Analyst,86985,12,1
+653,Candidate_653,"Power BI, Deep Learning, Cloud Computing, C++",5,B.Sc,TensorFlow Certificate,Software Engineer,111061,6,1
+654,Candidate_654,"SQL, AWS, Python, Power BI",6,MBA,TensorFlow Certificate,Cloud Engineer,80861,9,1
+655,Candidate_655,"AWS, Java",9,B.Sc,AWS Certified,Software Engineer,98577,1,1
+656,Candidate_656,"Cloud Computing, AWS",9,B.Tech,AWS Certified,Data Analyst,55003,6,1
+657,Candidate_657,"Power BI, SQL, Java, C++, Data Analysis",0,M.Sc,TensorFlow Certificate,Data Analyst,101626,7,1
+658,Candidate_658,"SQL, AWS, Deep Learning",2,B.Tech,TensorFlow Certificate,Data Scientist,31925,10,1
+659,Candidate_659,"Data Analysis, AWS, C++, Power BI, SQL",8,B.Sc,AWS Certified,Data Analyst,56015,5,1
+660,Candidate_660,"Python, AWS, C++, Cloud Computing, SQL",8,B.Tech,Microsoft Azure,Software Engineer,56289,1,1
+661,Candidate_661,"Java, Cloud Computing, Power BI, Python",3,M.Tech,AWS Certified,Data Analyst,91550,13,1
+662,Candidate_662,"C++, SQL, Data Analysis",10,B.Tech,Google Data Analytics,Data Analyst,56630,14,1
+663,Candidate_663,"Machine Learning, Data Analysis, Java, Cloud Computing",10,B.Sc,Microsoft Azure,Data Scientist,96435,3,1
+664,Candidate_664,"AWS, Machine Learning, Cloud Computing",5,M.Tech,Google Data Analytics,Software Engineer,111941,9,1
+665,Candidate_665,"Java, Deep Learning, C++, Power BI, Data Analysis",9,B.Tech,TensorFlow Certificate,Software Engineer,86446,14,1
+666,Candidate_666,"SQL, Power BI",8,M.Tech,TensorFlow Certificate,Data Scientist,66877,11,1
+667,Candidate_667,"C++, Power BI",10,M.Sc,TensorFlow Certificate,ML Engineer,110885,1,1
+668,Candidate_668,"Data Analysis, SQL, C++, AWS, Python",6,B.Tech,AWS Certified,Data Analyst,31560,11,1
+669,Candidate_669,"Deep Learning, Java",2,M.Sc,None,Data Analyst,61890,9,0
+670,Candidate_670,"Machine Learning, SQL, Power BI, Data Analysis",6,B.Tech,AWS Certified,Software Engineer,82579,13,1
+671,Candidate_671,"Java, Power BI, Data Analysis, SQL",7,MBA,Microsoft Azure,Software Engineer,32356,12,1
+672,Candidate_672,"Power BI, Java, Deep Learning, Python",6,M.Tech,AWS Certified,Data Scientist,119899,2,1
+673,Candidate_673,"Java, C++, Machine Learning, AWS, SQL",1,M.Tech,Google Data Analytics,ML Engineer,46082,5,1
+674,Candidate_674,"Data Analysis, C++, SQL, Power BI",5,B.Tech,Microsoft Azure,ML Engineer,32920,4,1
+675,Candidate_675,"C++, Deep Learning, Cloud Computing, Power BI",10,M.Tech,None,Cloud Engineer,90315,2,0
+676,Candidate_676,"Power BI, Machine Learning",9,MBA,Google Data Analytics,Data Analyst,75500,2,1
+677,Candidate_677,"SQL, Deep Learning, Power BI, Machine Learning",5,M.Tech,TensorFlow Certificate,Data Analyst,60027,14,1
+678,Candidate_678,"Data Analysis, Machine Learning, SQL, Java, Cloud Computing",0,B.Sc,AWS Certified,Cloud Engineer,89321,13,1
+679,Candidate_679,"Power BI, C++",7,M.Tech,Google Data Analytics,Data Analyst,77908,3,1
+680,Candidate_680,"C++, AWS, Machine Learning, Cloud Computing, Java",3,MBA,Microsoft Azure,ML Engineer,55963,11,1
+681,Candidate_681,"AWS, Machine Learning, Data Analysis, SQL, C++",3,M.Sc,TensorFlow Certificate,Software Engineer,69063,11,1
+682,Candidate_682,"Machine Learning, AWS, Deep Learning",1,M.Tech,None,ML Engineer,110818,0,0
+683,Candidate_683,"SQL, C++, Data Analysis, AWS",8,B.Sc,None,Cloud Engineer,55849,3,0
+684,Candidate_684,"Power BI, SQL, Python, AWS",4,MBA,TensorFlow Certificate,Software Engineer,52015,1,1
+685,Candidate_685,"Cloud Computing, Java, C++",3,B.Tech,AWS Certified,Cloud Engineer,56958,1,1
+686,Candidate_686,"Python, Java",1,B.Sc,Microsoft Azure,Data Scientist,75350,3,1
+687,Candidate_687,"Java, Power BI, Python, Machine Learning, SQL",9,B.Sc,TensorFlow Certificate,Software Engineer,47778,2,1
+688,Candidate_688,"Python, AWS, Data Analysis, Deep Learning",9,MBA,Microsoft Azure,Cloud Engineer,116652,5,1
+689,Candidate_689,"Machine Learning, Python, Power BI",2,M.Tech,Microsoft Azure,Data Analyst,114878,12,1
+690,Candidate_690,"C++, Python, Deep Learning",0,MBA,Microsoft Azure,ML Engineer,49975,2,1
+691,Candidate_691,"Power BI, Python, Data Analysis, AWS, Java",3,B.Tech,Google Data Analytics,Software Engineer,41561,13,1
+692,Candidate_692,"AWS, Cloud Computing, Deep Learning, SQL",1,B.Sc,Google Data Analytics,Data Analyst,56916,6,1
+693,Candidate_693,"Deep Learning, Power BI, Machine Learning, C++",4,M.Sc,Google Data Analytics,Cloud Engineer,34648,5,1
+694,Candidate_694,"Python, C++, Data Analysis",5,B.Sc,None,Data Scientist,100135,11,1
+695,Candidate_695,"SQL, Python, C++, Cloud Computing, Java",6,M.Tech,TensorFlow Certificate,Software Engineer,99350,8,1
+696,Candidate_696,"Java, C++, Machine Learning, Power BI, AWS",5,B.Sc,TensorFlow Certificate,Software Engineer,91272,0,1
+697,Candidate_697,"Java, SQL, Deep Learning, C++",8,B.Sc,Google Data Analytics,Cloud Engineer,97649,11,1
+698,Candidate_698,"Python, Machine Learning",2,B.Tech,Microsoft Azure,ML Engineer,43760,4,1
+699,Candidate_699,"Machine Learning, Java, Cloud Computing, Data Analysis, C++",7,B.Tech,AWS Certified,Software Engineer,91367,11,1
+700,Candidate_700,"Deep Learning, Cloud Computing, Data Analysis",3,M.Sc,Google Data Analytics,Data Scientist,82233,12,1
+701,Candidate_701,"Cloud Computing, Data Analysis, Machine Learning",2,MBA,Google Data Analytics,Software Engineer,112189,5,1
+702,Candidate_702,"Deep Learning, Machine Learning, AWS, C++",9,B.Sc,AWS Certified,Cloud Engineer,106619,12,1
+703,Candidate_703,"Power BI, C++, Machine Learning, Python, Java",8,B.Sc,Google Data Analytics,ML Engineer,36276,0,1
+704,Candidate_704,"Cloud Computing, Python, Deep Learning",3,B.Tech,AWS Certified,Cloud Engineer,109530,7,1
+705,Candidate_705,"C++, Data Analysis",0,B.Tech,Microsoft Azure,Data Scientist,112495,8,1
+706,Candidate_706,"Deep Learning, Python, AWS",5,MBA,TensorFlow Certificate,Data Scientist,115112,3,1
+707,Candidate_707,"Power BI, Cloud Computing, SQL, Data Analysis, Machine Learning",10,M.Sc,AWS Certified,ML Engineer,81886,4,1
+708,Candidate_708,"Cloud Computing, AWS, SQL",4,M.Sc,AWS Certified,Data Scientist,39847,11,1
+709,Candidate_709,"Cloud Computing, Deep Learning, Power BI, Data Analysis",7,MBA,Microsoft Azure,ML Engineer,113310,11,1
+710,Candidate_710,"C++, SQL",5,B.Sc,AWS Certified,Data Analyst,113194,11,1
+711,Candidate_711,"Data Analysis, Machine Learning, SQL, C++, Power BI",3,M.Tech,None,Data Analyst,111537,1,0
+712,Candidate_712,"Python, Data Analysis",8,MBA,Google Data Analytics,Data Scientist,30281,14,1
+713,Candidate_713,"Java, Power BI, AWS, Cloud Computing, Python",0,M.Sc,AWS Certified,Data Analyst,31058,6,1
+714,Candidate_714,"AWS, Deep Learning, Data Analysis, SQL, C++",5,B.Tech,TensorFlow Certificate,ML Engineer,58404,4,1
+715,Candidate_715,"C++, Power BI, Data Analysis, AWS",10,M.Sc,None,Software Engineer,59856,4,0
+716,Candidate_716,"Python, Java",0,M.Tech,None,Data Scientist,63997,2,0
+717,Candidate_717,"Python, Java, Cloud Computing",9,B.Tech,Google Data Analytics,Cloud Engineer,65057,3,1
+718,Candidate_718,"Python, Java, Deep Learning",7,B.Tech,Google Data Analytics,ML Engineer,95661,10,1
+719,Candidate_719,"Python, SQL",1,B.Tech,Microsoft Azure,Data Scientist,119393,8,1
+720,Candidate_720,"Machine Learning, Deep Learning, C++, Data Analysis, Python",8,B.Tech,Microsoft Azure,Data Scientist,86503,6,1
+721,Candidate_721,"C++, Deep Learning, AWS, Python, Java",10,M.Tech,Microsoft Azure,Data Scientist,39110,1,1
+722,Candidate_722,"Cloud Computing, Data Analysis, Deep Learning",5,M.Sc,TensorFlow Certificate,Cloud Engineer,69062,3,1
+723,Candidate_723,"Deep Learning, Java, Machine Learning, Data Analysis",3,MBA,None,ML Engineer,73753,1,0
+724,Candidate_724,"Data Analysis, Deep Learning, Java",6,M.Tech,TensorFlow Certificate,ML Engineer,40225,7,1
+725,Candidate_725,"C++, Power BI, Deep Learning, Java",4,MBA,TensorFlow Certificate,ML Engineer,53196,0,1
+726,Candidate_726,"Machine Learning, Java, Cloud Computing, C++, Power BI",5,M.Sc,TensorFlow Certificate,Cloud Engineer,78320,4,1
+727,Candidate_727,"AWS, SQL, Data Analysis, Java, Deep Learning",6,M.Sc,AWS Certified,ML Engineer,45577,6,1
+728,Candidate_728,"Power BI, Python, SQL",10,M.Sc,Microsoft Azure,Software Engineer,85409,9,1
+729,Candidate_729,"Java, SQL, Python",1,B.Tech,AWS Certified,Data Scientist,54089,0,1
+730,Candidate_730,"SQL, Machine Learning, Data Analysis, AWS, C++",7,MBA,Microsoft Azure,Cloud Engineer,80138,14,1
+731,Candidate_731,"Cloud Computing, Power BI, SQL",7,MBA,Microsoft Azure,Data Scientist,84061,8,1
+732,Candidate_732,"Python, Power BI, Deep Learning, AWS, Machine Learning",3,B.Sc,AWS Certified,Data Analyst,61890,0,1
+733,Candidate_733,"Power BI, Python, AWS, SQL",4,B.Sc,Google Data Analytics,ML Engineer,56984,4,1
+734,Candidate_734,"Java, AWS, C++, Power BI",9,B.Sc,AWS Certified,Cloud Engineer,66059,13,1
+735,Candidate_735,"Data Analysis, Cloud Computing, AWS",1,MBA,Microsoft Azure,Cloud Engineer,47087,1,0
+736,Candidate_736,"Java, AWS, Machine Learning",5,M.Tech,None,ML Engineer,35704,14,1
+737,Candidate_737,"AWS, C++",0,B.Tech,None,Data Analyst,117128,8,0
+738,Candidate_738,"Cloud Computing, Java",8,B.Tech,AWS Certified,ML Engineer,115150,4,1
+739,Candidate_739,"Power BI, Java, Python",8,B.Sc,TensorFlow Certificate,ML Engineer,55923,10,1
+740,Candidate_740,"SQL, Deep Learning, Cloud Computing",1,M.Tech,Microsoft Azure,Data Analyst,59165,12,1
+741,Candidate_741,"Power BI, AWS",3,B.Tech,TensorFlow Certificate,Data Analyst,34114,5,1
+742,Candidate_742,"Power BI, AWS, Python, C++, Data Analysis",5,M.Tech,TensorFlow Certificate,ML Engineer,103297,1,1
+743,Candidate_743,"Deep Learning, Python, C++, Data Analysis, Cloud Computing",8,B.Tech,None,Software Engineer,55426,6,1
+744,Candidate_744,"AWS, Machine Learning, Java",10,M.Tech,None,Cloud Engineer,31367,0,0
+745,Candidate_745,"AWS, C++, Machine Learning, Data Analysis",5,B.Tech,None,Software Engineer,81924,6,1
+746,Candidate_746,"AWS, Deep Learning",0,M.Sc,TensorFlow Certificate,Software Engineer,39108,11,1
+747,Candidate_747,"Deep Learning, C++, Cloud Computing, Java, Power BI",2,B.Sc,AWS Certified,Data Scientist,61324,11,1
+748,Candidate_748,"Java, SQL",8,B.Tech,AWS Certified,Data Scientist,38927,0,1
+749,Candidate_749,"SQL, Machine Learning, Python, C++, Java",0,B.Sc,AWS Certified,Data Scientist,52443,2,1
+750,Candidate_750,"C++, Machine Learning",5,B.Tech,Google Data Analytics,Data Analyst,106743,9,1
+751,Candidate_751,"Java, Deep Learning, Python, AWS, Power BI",9,MBA,None,ML Engineer,107576,1,1
+752,Candidate_752,"AWS, Cloud Computing, C++, SQL, Python",2,MBA,TensorFlow Certificate,Data Analyst,36471,4,1
+753,Candidate_753,"Power BI, Deep Learning, AWS, Python, SQL",1,MBA,AWS Certified,Data Scientist,61348,5,1
+754,Candidate_754,"Deep Learning, Cloud Computing, AWS, C++, Python",9,B.Tech,AWS Certified,Data Scientist,62779,8,1
+755,Candidate_755,"Machine Learning, C++, Cloud Computing, Data Analysis",4,B.Tech,None,Data Scientist,83551,1,0
+756,Candidate_756,"SQL, Deep Learning",4,B.Sc,None,Software Engineer,41563,14,1
+757,Candidate_757,"Deep Learning, Data Analysis, Java, Python",3,M.Tech,Google Data Analytics,Data Scientist,103770,14,1
+758,Candidate_758,"Python, Power BI, Machine Learning, Deep Learning, Data Analysis",6,B.Sc,AWS Certified,Data Scientist,111709,5,1
+759,Candidate_759,"Machine Learning, Power BI, SQL",1,B.Tech,None,Cloud Engineer,108714,11,0
+760,Candidate_760,"AWS, Python",10,M.Tech,AWS Certified,Data Analyst,54596,12,1
+761,Candidate_761,"Java, C++, Python, AWS, Cloud Computing",6,M.Sc,Google Data Analytics,Software Engineer,99967,10,1
+762,Candidate_762,"Python, AWS, Deep Learning, SQL",4,M.Sc,None,Cloud Engineer,69310,11,1
+763,Candidate_763,"Python, AWS, Data Analysis, Deep Learning, Java",8,M.Tech,Google Data Analytics,Cloud Engineer,38906,3,1
+764,Candidate_764,"Deep Learning, SQL, Data Analysis, Python, Power BI",2,MBA,AWS Certified,ML Engineer,75379,14,1
+765,Candidate_765,"Cloud Computing, Power BI, Python",4,M.Tech,Microsoft Azure,Software Engineer,67650,12,1
+766,Candidate_766,"Data Analysis, Machine Learning",1,M.Sc,Google Data Analytics,Software Engineer,36012,13,1
+767,Candidate_767,"C++, Power BI, SQL, Java",3,M.Sc,TensorFlow Certificate,Cloud Engineer,66378,4,1
+768,Candidate_768,"Deep Learning, AWS, Python, Data Analysis, SQL",2,B.Sc,AWS Certified,Cloud Engineer,84691,7,1
+769,Candidate_769,"Data Analysis, Machine Learning, AWS, Power BI, Python",1,B.Tech,AWS Certified,Cloud Engineer,74976,1,1
+770,Candidate_770,"Power BI, AWS, Java",3,MBA,TensorFlow Certificate,Cloud Engineer,116365,9,1
+771,Candidate_771,"Java, Cloud Computing, Data Analysis, Power BI, AWS",10,M.Tech,Google Data Analytics,Data Analyst,74139,6,1
+772,Candidate_772,"AWS, Deep Learning, Cloud Computing",9,M.Sc,Microsoft Azure,Data Scientist,102588,6,1
+773,Candidate_773,"Python, Machine Learning, Power BI, Java, Deep Learning",6,M.Sc,AWS Certified,Software Engineer,48743,14,1
+774,Candidate_774,"Python, Java, Deep Learning, AWS",0,MBA,TensorFlow Certificate,Data Scientist,104172,9,1
+775,Candidate_775,"Power BI, SQL, Java, Data Analysis, Cloud Computing",9,M.Sc,Microsoft Azure,Data Analyst,54611,7,1
+776,Candidate_776,"AWS, Data Analysis",3,M.Tech,TensorFlow Certificate,Data Scientist,42149,3,1
+777,Candidate_777,"C++, Data Analysis, AWS",6,B.Sc,Microsoft Azure,Software Engineer,51675,5,1
+778,Candidate_778,"Deep Learning, Python",7,MBA,Microsoft Azure,Data Analyst,43673,12,1
+779,Candidate_779,"SQL, Data Analysis",10,M.Tech,Google Data Analytics,Data Scientist,110758,12,1
+780,Candidate_780,"AWS, C++",5,MBA,AWS Certified,Data Analyst,64068,5,1
+781,Candidate_781,"Power BI, Java, Cloud Computing",5,B.Sc,Google Data Analytics,Cloud Engineer,82249,11,1
+782,Candidate_782,"Java, AWS, Python",8,B.Sc,AWS Certified,Software Engineer,111929,14,1
+783,Candidate_783,"Data Analysis, Python, Power BI",7,B.Tech,Google Data Analytics,Cloud Engineer,105388,9,1
+784,Candidate_784,"Python, C++",9,M.Tech,AWS Certified,Software Engineer,101831,7,1
+785,Candidate_785,"Power BI, AWS",0,MBA,Google Data Analytics,ML Engineer,64084,9,1
+786,Candidate_786,"Power BI, C++",3,M.Sc,Microsoft Azure,Data Analyst,85826,1,1
+787,Candidate_787,"Cloud Computing, Power BI, Deep Learning, SQL, Python",3,B.Tech,AWS Certified,Cloud Engineer,61910,11,1
+788,Candidate_788,"C++, Power BI, Java, Data Analysis",9,MBA,Google Data Analytics,Data Scientist,95681,8,1
+789,Candidate_789,"SQL, Python, Machine Learning, Cloud Computing, Deep Learning",2,M.Sc,Google Data Analytics,ML Engineer,95481,3,1
+790,Candidate_790,"SQL, AWS, Python, Cloud Computing",0,B.Tech,AWS Certified,Software Engineer,94174,6,1
+791,Candidate_791,"Machine Learning, AWS",0,B.Tech,AWS Certified,Cloud Engineer,47633,2,0
+792,Candidate_792,"SQL, Python",0,B.Tech,TensorFlow Certificate,Software Engineer,110532,6,1
+793,Candidate_793,"Java, AWS, Cloud Computing, C++, Deep Learning",0,B.Sc,Google Data Analytics,Cloud Engineer,107231,5,1
+794,Candidate_794,"Cloud Computing, SQL, Data Analysis, Java",4,M.Sc,Microsoft Azure,Data Scientist,63755,14,1
+795,Candidate_795,"Deep Learning, Power BI",6,B.Tech,Google Data Analytics,Data Analyst,87993,10,1
+796,Candidate_796,"C++, Data Analysis, Power BI",8,B.Tech,Microsoft Azure,Cloud Engineer,87784,13,1
+797,Candidate_797,"Machine Learning, Java",8,B.Tech,Microsoft Azure,Data Analyst,47727,1,1
+798,Candidate_798,"Cloud Computing, Machine Learning",2,M.Sc,Microsoft Azure,Cloud Engineer,95108,6,1
+799,Candidate_799,"Deep Learning, Java, Machine Learning, AWS, Python",1,M.Tech,TensorFlow Certificate,ML Engineer,62117,2,1
+800,Candidate_800,"Power BI, Machine Learning",6,B.Sc,TensorFlow Certificate,Cloud Engineer,85754,8,1
+801,Candidate_801,"Java, Machine Learning, Data Analysis",6,B.Sc,AWS Certified,Data Analyst,59371,7,1
+802,Candidate_802,"AWS, Power BI, Python, Java",2,MBA,None,Cloud Engineer,47625,3,0
+803,Candidate_803,"SQL, Cloud Computing, Deep Learning, Power BI",5,B.Tech,AWS Certified,Data Analyst,61007,9,1
+804,Candidate_804,"Cloud Computing, SQL, C++, Deep Learning",6,B.Sc,TensorFlow Certificate,ML Engineer,84253,12,1
+805,Candidate_805,"Cloud Computing, Machine Learning, Data Analysis, SQL",3,M.Tech,Google Data Analytics,Cloud Engineer,103379,7,1
+806,Candidate_806,"Python, C++, AWS, Java, Machine Learning",2,M.Sc,Google Data Analytics,Cloud Engineer,61367,8,1
+807,Candidate_807,"SQL, Cloud Computing, Java, Data Analysis",0,MBA,Google Data Analytics,Data Scientist,98008,10,1
+808,Candidate_808,"SQL, AWS, Power BI, C++, Data Analysis",6,MBA,None,Data Analyst,102240,3,0
+809,Candidate_809,"C++, Data Analysis",1,M.Sc,Microsoft Azure,Data Analyst,40756,11,1
+810,Candidate_810,"Python, Data Analysis",10,B.Sc,Microsoft Azure,Software Engineer,86549,4,1
+811,Candidate_811,"Power BI, Python, C++",7,MBA,None,Data Scientist,103794,1,1
+812,Candidate_812,"Python, C++, Deep Learning, Power BI",5,MBA,Microsoft Azure,Data Scientist,75113,11,1
+813,Candidate_813,"Python, Java",2,M.Tech,Microsoft Azure,Software Engineer,35249,5,1
+814,Candidate_814,"Python, Java, Deep Learning, Cloud Computing, C++",6,B.Tech,AWS Certified,Cloud Engineer,49201,11,1
+815,Candidate_815,"Python, Power BI, AWS, Deep Learning",5,M.Tech,AWS Certified,Software Engineer,39686,0,1
+816,Candidate_816,"Cloud Computing, Machine Learning",3,M.Tech,TensorFlow Certificate,ML Engineer,30661,7,1
+817,Candidate_817,"AWS, Machine Learning",9,M.Sc,Google Data Analytics,Cloud Engineer,72828,3,1
+818,Candidate_818,"Data Analysis, AWS, C++",8,B.Tech,TensorFlow Certificate,ML Engineer,30207,6,1
+819,Candidate_819,"Java, Cloud Computing",9,B.Sc,None,Data Analyst,118733,13,1
+820,Candidate_820,"Java, SQL, Python, AWS, C++",8,M.Sc,AWS Certified,ML Engineer,98619,6,1
+821,Candidate_821,"Power BI, Cloud Computing, Java, AWS",0,M.Sc,TensorFlow Certificate,Data Analyst,50103,11,1
+822,Candidate_822,"Deep Learning, Machine Learning, C++, SQL, AWS",3,B.Sc,None,Data Scientist,111437,2,0
+823,Candidate_823,"Power BI, Data Analysis, Java",6,B.Tech,TensorFlow Certificate,Software Engineer,85922,11,1
+824,Candidate_824,"Machine Learning, AWS",7,B.Tech,TensorFlow Certificate,ML Engineer,92711,5,1
+825,Candidate_825,"Cloud Computing, Deep Learning, Java, Data Analysis",0,MBA,Microsoft Azure,Data Scientist,112205,8,1
+826,Candidate_826,"C++, Deep Learning",4,MBA,Google Data Analytics,Data Analyst,115957,3,1
+827,Candidate_827,"Data Analysis, AWS, Python",5,B.Sc,AWS Certified,ML Engineer,34895,1,1
+828,Candidate_828,"Cloud Computing, C++, Power BI",0,B.Tech,Google Data Analytics,Data Scientist,106559,4,0
+829,Candidate_829,"Java, C++, Machine Learning, Data Analysis",5,M.Tech,None,Cloud Engineer,49169,3,0
+830,Candidate_830,"Machine Learning, Deep Learning, SQL",3,M.Tech,AWS Certified,Software Engineer,35782,0,1
+831,Candidate_831,"Java, C++, Power BI",1,M.Sc,Microsoft Azure,Data Scientist,114328,12,1
+832,Candidate_832,"Cloud Computing, Data Analysis, Machine Learning",4,B.Sc,Microsoft Azure,Software Engineer,60682,1,1
+833,Candidate_833,"Java, Deep Learning",8,B.Sc,TensorFlow Certificate,ML Engineer,114416,8,1
+834,Candidate_834,"Data Analysis, Cloud Computing, Python, Java, SQL",10,B.Tech,AWS Certified,Software Engineer,68067,2,1
+835,Candidate_835,"Power BI, C++",6,B.Sc,Microsoft Azure,Software Engineer,66035,9,1
+836,Candidate_836,"Java, Deep Learning, Data Analysis, Python",1,B.Tech,None,ML Engineer,113362,6,1
+837,Candidate_837,"C++, Python, Java, Power BI",5,MBA,Google Data Analytics,ML Engineer,40382,10,1
+838,Candidate_838,"SQL, Python",5,M.Tech,None,Data Analyst,94612,11,1
+839,Candidate_839,"Python, AWS",3,M.Sc,AWS Certified,Software Engineer,42329,9,1
+840,Candidate_840,"Data Analysis, Deep Learning, Java, Power BI, Python",5,M.Tech,Microsoft Azure,Data Scientist,117468,1,1
+841,Candidate_841,"Cloud Computing, Machine Learning, SQL, Java",2,B.Sc,TensorFlow Certificate,Data Analyst,90631,13,1
+842,Candidate_842,"SQL, Data Analysis, C++, Deep Learning, Java",9,M.Sc,AWS Certified,Data Analyst,103165,13,1
+843,Candidate_843,"Cloud Computing, Java, AWS, Python, Power BI",5,M.Sc,Microsoft Azure,Cloud Engineer,61750,2,1
+844,Candidate_844,"C++, Data Analysis, Power BI, Machine Learning, Python",3,MBA,Microsoft Azure,Cloud Engineer,103800,13,1
+845,Candidate_845,"Data Analysis, Power BI, Machine Learning, Cloud Computing, SQL",4,B.Tech,Google Data Analytics,Cloud Engineer,36721,2,1
+846,Candidate_846,"Machine Learning, Java, C++, Python, Power BI",10,B.Tech,None,Data Analyst,82130,1,1
+847,Candidate_847,"Power BI, Machine Learning, AWS, Python, Java",1,B.Sc,Google Data Analytics,Cloud Engineer,85249,13,1
+848,Candidate_848,"SQL, Java, AWS",9,M.Sc,None,Cloud Engineer,104520,8,1
+849,Candidate_849,"C++, AWS, Python, Data Analysis",5,MBA,AWS Certified,Data Analyst,103822,0,1
+850,Candidate_850,"Cloud Computing, AWS",0,M.Sc,TensorFlow Certificate,Data Analyst,61055,13,1
+851,Candidate_851,"C++, SQL",5,B.Tech,TensorFlow Certificate,Cloud Engineer,44716,13,1
+852,Candidate_852,"SQL, Cloud Computing",3,B.Sc,None,ML Engineer,65298,2,0
+853,Candidate_853,"C++, Deep Learning",8,M.Sc,None,Software Engineer,80200,5,1
+854,Candidate_854,"Cloud Computing, Python",4,B.Tech,Google Data Analytics,ML Engineer,47347,1,1
+855,Candidate_855,"Python, SQL",8,B.Sc,TensorFlow Certificate,Software Engineer,76659,14,1
+856,Candidate_856,"Python, Cloud Computing, Machine Learning, AWS, Java",3,MBA,Microsoft Azure,Software Engineer,82188,1,1
+857,Candidate_857,"Power BI, AWS, Deep Learning, Machine Learning, SQL",5,M.Sc,Microsoft Azure,Data Analyst,107866,12,1
+858,Candidate_858,"AWS, Machine Learning",1,MBA,None,Cloud Engineer,102146,11,0
+859,Candidate_859,"Machine Learning, SQL, Deep Learning, Power BI",2,B.Tech,Microsoft Azure,Data Analyst,72913,4,0
+860,Candidate_860,"Power BI, Deep Learning, Python",9,M.Sc,AWS Certified,Data Analyst,85677,8,1
+861,Candidate_861,"Cloud Computing, Data Analysis, C++, Power BI, Machine Learning",10,MBA,Microsoft Azure,Software Engineer,76332,1,1
+862,Candidate_862,"Machine Learning, Deep Learning, C++",7,M.Sc,Google Data Analytics,Data Analyst,55032,14,1
+863,Candidate_863,"Data Analysis, Cloud Computing, Python, C++, Deep Learning",6,B.Sc,Google Data Analytics,Data Analyst,74936,2,1
+864,Candidate_864,"Power BI, Data Analysis",2,B.Sc,None,Data Analyst,100984,4,0
+865,Candidate_865,"Power BI, AWS, Python, SQL, Cloud Computing",2,MBA,Microsoft Azure,Data Analyst,53291,6,1
+866,Candidate_866,"C++, Data Analysis",0,M.Sc,Microsoft Azure,Data Analyst,76851,3,0
+867,Candidate_867,"Python, Data Analysis, Cloud Computing",6,B.Sc,None,ML Engineer,53312,7,1
+868,Candidate_868,"Power BI, Data Analysis",4,B.Tech,Google Data Analytics,ML Engineer,64171,6,1
+869,Candidate_869,"Cloud Computing, Java, Power BI",3,MBA,TensorFlow Certificate,Cloud Engineer,42411,12,1
+870,Candidate_870,"Power BI, Deep Learning, Java, SQL",5,M.Sc,AWS Certified,Data Scientist,87009,6,1
+871,Candidate_871,"SQL, Java, Python",4,M.Tech,None,Data Scientist,87022,3,1
+872,Candidate_872,"AWS, Java, Deep Learning",2,M.Sc,AWS Certified,ML Engineer,56715,6,1
+873,Candidate_873,"Data Analysis, Python, Java, Cloud Computing, Power BI",5,B.Tech,Microsoft Azure,ML Engineer,61174,13,1
+874,Candidate_874,"Python, SQL, Data Analysis, AWS, Cloud Computing",4,M.Tech,None,Cloud Engineer,106373,12,1
+875,Candidate_875,"SQL, Data Analysis, Java, AWS, Machine Learning",4,MBA,TensorFlow Certificate,Software Engineer,92646,13,1
+876,Candidate_876,"SQL, Data Analysis, AWS, C++, Java",1,M.Tech,Microsoft Azure,Data Analyst,119818,13,1
+877,Candidate_877,"Java, Deep Learning, Data Analysis, Machine Learning, C++",4,M.Tech,Google Data Analytics,Cloud Engineer,103294,5,1
+878,Candidate_878,"C++, Power BI, Cloud Computing",4,B.Sc,AWS Certified,ML Engineer,54022,9,1
+879,Candidate_879,"AWS, Power BI",9,B.Tech,Google Data Analytics,Data Analyst,35542,7,1
+880,Candidate_880,"AWS, Deep Learning",4,M.Sc,Microsoft Azure,Data Scientist,90428,0,1
+881,Candidate_881,"Data Analysis, Java, Cloud Computing, Machine Learning, Power BI",4,M.Sc,Google Data Analytics,Cloud Engineer,86532,9,1
+882,Candidate_882,"C++, Machine Learning, Java, Power BI",4,M.Tech,Microsoft Azure,Software Engineer,77076,1,1
+883,Candidate_883,"Python, Java, SQL, Power BI",3,M.Tech,Microsoft Azure,ML Engineer,83744,0,1
+884,Candidate_884,"Cloud Computing, Python, Java, Power BI, SQL",10,B.Sc,Microsoft Azure,Data Analyst,52420,14,1
+885,Candidate_885,"C++, SQL, Machine Learning",3,M.Sc,Google Data Analytics,ML Engineer,59300,6,1
+886,Candidate_886,"Data Analysis, AWS, Deep Learning, C++, Java",9,M.Sc,Google Data Analytics,Software Engineer,55121,13,1
+887,Candidate_887,"AWS, Data Analysis",3,M.Sc,None,Software Engineer,63361,11,1
+888,Candidate_888,"Power BI, Python, Data Analysis, Machine Learning, C++",7,M.Sc,Microsoft Azure,Data Scientist,44056,2,1
+889,Candidate_889,"Cloud Computing, Deep Learning, Java, AWS",3,B.Tech,AWS Certified,Software Engineer,49877,12,1
+890,Candidate_890,"Python, Cloud Computing, AWS, C++",9,M.Sc,Microsoft Azure,Cloud Engineer,94041,4,1
+891,Candidate_891,"SQL, Python, AWS",0,B.Tech,Microsoft Azure,ML Engineer,60911,8,1
+892,Candidate_892,"Java, Cloud Computing, Power BI",0,B.Sc,Microsoft Azure,ML Engineer,63160,7,1
+893,Candidate_893,"Data Analysis, Power BI, Cloud Computing",8,B.Sc,TensorFlow Certificate,Software Engineer,94641,0,1
+894,Candidate_894,"Deep Learning, AWS",0,MBA,None,Cloud Engineer,50281,9,0
+895,Candidate_895,"C++, Data Analysis, Java",7,M.Tech,None,Software Engineer,58602,4,0
+896,Candidate_896,"Java, Machine Learning, Data Analysis, C++, SQL",5,B.Tech,AWS Certified,Cloud Engineer,53472,7,1
+897,Candidate_897,"Data Analysis, Python, Machine Learning, C++",0,MBA,AWS Certified,Cloud Engineer,55431,11,1
+898,Candidate_898,"C++, AWS, Deep Learning",2,MBA,None,Data Scientist,60111,4,0
+899,Candidate_899,"Machine Learning, SQL, Java, Cloud Computing, Data Analysis",0,B.Sc,Google Data Analytics,ML Engineer,71991,6,1
+900,Candidate_900,"SQL, Python",7,MBA,TensorFlow Certificate,Data Analyst,93530,8,1
+901,Candidate_901,"Power BI, SQL",0,B.Sc,TensorFlow Certificate,Data Analyst,58082,12,1
+902,Candidate_902,"Cloud Computing, Power BI, Data Analysis, Python, Machine Learning",7,B.Sc,AWS Certified,Data Analyst,106816,2,1
+903,Candidate_903,"Deep Learning, C++",4,MBA,Google Data Analytics,Data Analyst,118340,3,1
+904,Candidate_904,"Java, AWS, Cloud Computing, Deep Learning, SQL",7,MBA,AWS Certified,ML Engineer,40142,9,1
+905,Candidate_905,"SQL, Machine Learning",3,B.Sc,None,ML Engineer,100067,10,1
+906,Candidate_906,"Java, Data Analysis, AWS",2,MBA,TensorFlow Certificate,Software Engineer,94027,6,1
+907,Candidate_907,"Java, C++, Machine Learning, Data Analysis",2,MBA,None,ML Engineer,59956,10,0
+908,Candidate_908,"Power BI, Data Analysis",4,B.Sc,Microsoft Azure,Data Analyst,106295,13,1
+909,Candidate_909,"SQL, Deep Learning, Java, Power BI, Machine Learning",9,M.Sc,AWS Certified,Cloud Engineer,58270,5,1
+910,Candidate_910,"Java, SQL, Cloud Computing, Python",0,M.Sc,Microsoft Azure,Software Engineer,91063,14,1
+911,Candidate_911,"Python, Deep Learning, Data Analysis, Power BI, Cloud Computing",7,B.Tech,TensorFlow Certificate,Cloud Engineer,65144,8,1
+912,Candidate_912,"C++, Power BI, Deep Learning, Cloud Computing, AWS",1,M.Sc,None,Data Scientist,107360,14,0
+913,Candidate_913,"Cloud Computing, AWS, Data Analysis, Java",3,M.Tech,TensorFlow Certificate,Data Analyst,36979,13,1
+914,Candidate_914,"Java, AWS, Deep Learning, Cloud Computing",8,B.Sc,TensorFlow Certificate,Software Engineer,108040,8,1
+915,Candidate_915,"Java, Machine Learning",9,M.Tech,AWS Certified,Data Analyst,116205,6,1
+916,Candidate_916,"Power BI, Cloud Computing",1,M.Tech,None,Software Engineer,64964,9,0
+917,Candidate_917,"Machine Learning, AWS, Cloud Computing",3,M.Tech,AWS Certified,Cloud Engineer,35978,11,1
+918,Candidate_918,"Cloud Computing, AWS, Java, Machine Learning",7,M.Tech,TensorFlow Certificate,Data Scientist,89765,1,1
+919,Candidate_919,"Java, Cloud Computing, Deep Learning",4,B.Sc,None,Data Scientist,99519,14,1
+920,Candidate_920,"Deep Learning, Machine Learning, Python, SQL",1,B.Tech,Google Data Analytics,Software Engineer,46905,10,1
+921,Candidate_921,"Power BI, Java, Cloud Computing, SQL, Deep Learning",0,MBA,Microsoft Azure,Data Analyst,119489,7,1
+922,Candidate_922,"Java, Python, Cloud Computing, AWS, Data Analysis",6,M.Tech,Google Data Analytics,Data Scientist,52168,8,1
+923,Candidate_923,"SQL, Cloud Computing",7,M.Tech,AWS Certified,ML Engineer,84093,10,1
+924,Candidate_924,"C++, Data Analysis, Deep Learning, Power BI, AWS",9,M.Sc,AWS Certified,Software Engineer,107425,8,1
+925,Candidate_925,"Machine Learning, AWS, SQL",5,M.Tech,TensorFlow Certificate,Cloud Engineer,32461,3,1
+926,Candidate_926,"Data Analysis, Deep Learning, SQL",3,B.Sc,AWS Certified,Software Engineer,106971,4,1
+927,Candidate_927,"Java, C++, AWS, Python, Machine Learning",2,M.Sc,None,Data Scientist,114080,13,1
+928,Candidate_928,"C++, Python, SQL, Cloud Computing, Deep Learning",7,MBA,Microsoft Azure,Data Scientist,107794,4,1
+929,Candidate_929,"Deep Learning, Java, C++, SQL",9,M.Tech,None,Data Analyst,78758,13,1
+930,Candidate_930,"Cloud Computing, Deep Learning, Java",6,B.Tech,AWS Certified,Data Scientist,67643,0,1
+931,Candidate_931,"Cloud Computing, AWS, Machine Learning, SQL, C++",8,MBA,Google Data Analytics,ML Engineer,86849,14,1
+932,Candidate_932,"Power BI, Deep Learning",4,M.Tech,AWS Certified,Cloud Engineer,45997,12,1
+933,Candidate_933,"Python, Deep Learning, C++, Machine Learning, Cloud Computing",7,MBA,None,Data Scientist,53911,13,1
+934,Candidate_934,"Deep Learning, Java, Machine Learning, Python",6,B.Tech,None,Data Analyst,44571,6,1
+935,Candidate_935,"Python, C++",10,B.Tech,AWS Certified,ML Engineer,88005,5,1
+936,Candidate_936,"Deep Learning, Data Analysis, Power BI, C++, Python",10,M.Sc,Microsoft Azure,Data Scientist,73541,8,1
+937,Candidate_937,"Data Analysis, C++, Java",1,B.Sc,TensorFlow Certificate,Software Engineer,94028,1,0
+938,Candidate_938,"C++, AWS, Deep Learning, Power BI",4,M.Tech,None,ML Engineer,85731,14,1
+939,Candidate_939,"Python, Data Analysis, Cloud Computing, Deep Learning",10,MBA,AWS Certified,ML Engineer,74638,1,1
+940,Candidate_940,"Machine Learning, Deep Learning",2,MBA,TensorFlow Certificate,Cloud Engineer,50567,6,1
+941,Candidate_941,"SQL, Power BI, Deep Learning",5,B.Tech,Microsoft Azure,Cloud Engineer,57044,10,1
+942,Candidate_942,"AWS, Data Analysis, Deep Learning, Power BI",0,MBA,Microsoft Azure,Data Analyst,38706,7,1
+943,Candidate_943,"Cloud Computing, Data Analysis, Power BI, SQL, C++",5,M.Tech,Google Data Analytics,Data Analyst,111942,2,1
+944,Candidate_944,"Power BI, Python, Data Analysis",6,M.Sc,Google Data Analytics,Data Analyst,39496,11,1
+945,Candidate_945,"Machine Learning, SQL, Cloud Computing, Power BI, Data Analysis",4,B.Tech,AWS Certified,Data Scientist,118199,14,1
+946,Candidate_946,"Power BI, Deep Learning, C++, Machine Learning",9,B.Sc,Google Data Analytics,Software Engineer,95095,9,1
+947,Candidate_947,"AWS, Machine Learning, Data Analysis",0,MBA,TensorFlow Certificate,Cloud Engineer,79666,11,1
+948,Candidate_948,"Power BI, SQL, Python, AWS",0,M.Tech,AWS Certified,Data Analyst,92946,3,1
+949,Candidate_949,"Python, Power BI, SQL",9,M.Tech,AWS Certified,Data Analyst,98056,1,1
+950,Candidate_950,"Cloud Computing, C++, Java, Data Analysis",9,B.Tech,Google Data Analytics,Data Analyst,66735,4,1
+951,Candidate_951,"AWS, Machine Learning, C++, Python",6,MBA,AWS Certified,Software Engineer,55498,10,1
+952,Candidate_952,"SQL, Java",1,B.Sc,TensorFlow Certificate,Data Analyst,97695,8,1
+953,Candidate_953,"Java, SQL, Python",8,M.Sc,Google Data Analytics,Data Scientist,114899,3,1
+954,Candidate_954,"AWS, Deep Learning, Java, Data Analysis, C++",5,B.Tech,TensorFlow Certificate,Software Engineer,49033,9,1
+955,Candidate_955,"SQL, Java, Machine Learning, Deep Learning, C++",9,M.Tech,TensorFlow Certificate,Cloud Engineer,65851,5,1
+956,Candidate_956,"C++, Cloud Computing, Java",0,M.Sc,TensorFlow Certificate,Data Scientist,43944,13,1
+957,Candidate_957,"Machine Learning, AWS, Power BI",1,B.Tech,AWS Certified,Cloud Engineer,119464,4,0
+958,Candidate_958,"Power BI, SQL, Data Analysis",3,M.Sc,Microsoft Azure,Data Scientist,66751,10,1
+959,Candidate_959,"Deep Learning, Power BI, Machine Learning, Python, Data Analysis",2,MBA,Microsoft Azure,Data Scientist,35110,14,1
+960,Candidate_960,"C++, AWS, Cloud Computing, SQL, Java",5,B.Sc,AWS Certified,Cloud Engineer,53762,7,1
+961,Candidate_961,"Python, Deep Learning",4,B.Sc,Microsoft Azure,Data Analyst,39596,9,1
+962,Candidate_962,"Python, AWS, Deep Learning",3,B.Sc,TensorFlow Certificate,ML Engineer,48313,3,1
+963,Candidate_963,"Machine Learning, AWS",7,M.Tech,Google Data Analytics,Software Engineer,53705,5,1
+964,Candidate_964,"Deep Learning, Python, Data Analysis",4,M.Tech,TensorFlow Certificate,Cloud Engineer,108645,5,1
+965,Candidate_965,"Machine Learning, AWS, Power BI",7,M.Sc,None,ML Engineer,89796,6,1
+966,Candidate_966,"Python, SQL, C++, Power BI",9,B.Tech,AWS Certified,Software Engineer,94429,5,1
+967,Candidate_967,"Cloud Computing, Java, AWS, Deep Learning",3,M.Tech,Microsoft Azure,ML Engineer,63848,11,1
+968,Candidate_968,"Python, Cloud Computing, Data Analysis, Power BI, SQL",3,MBA,Google Data Analytics,Data Scientist,57766,0,1
+969,Candidate_969,"Power BI, Cloud Computing, AWS",6,MBA,Microsoft Azure,Data Analyst,66060,3,1
+970,Candidate_970,"Python, AWS, C++",2,B.Sc,None,Software Engineer,78868,7,1
+971,Candidate_971,"Python, Data Analysis",9,B.Tech,Microsoft Azure,ML Engineer,36643,6,1
+972,Candidate_972,"Java, Python, Deep Learning, Power BI",3,MBA,AWS Certified,Cloud Engineer,41005,7,1
+973,Candidate_973,"AWS, Python, C++, Cloud Computing, Java",7,MBA,Microsoft Azure,Software Engineer,46029,1,1
+974,Candidate_974,"Deep Learning, SQL, Power BI, Python, AWS",1,M.Sc,AWS Certified,Data Analyst,93646,2,1
+975,Candidate_975,"Machine Learning, C++, Python, AWS, Data Analysis",2,B.Sc,TensorFlow Certificate,Data Scientist,98926,0,1
+976,Candidate_976,"Power BI, C++, SQL, Data Analysis, Machine Learning",2,B.Sc,AWS Certified,ML Engineer,79815,5,1
+977,Candidate_977,"Machine Learning, Deep Learning, Java, C++, Power BI",9,M.Tech,Google Data Analytics,Cloud Engineer,43428,5,1
+978,Candidate_978,"Deep Learning, Cloud Computing, Data Analysis, Java, Power BI",3,M.Tech,Google Data Analytics,Data Analyst,87775,2,1
+979,Candidate_979,"AWS, Cloud Computing, Java",3,M.Sc,TensorFlow Certificate,ML Engineer,58854,13,1
+980,Candidate_980,"Java, AWS, C++",0,M.Tech,Google Data Analytics,Software Engineer,106256,6,1
+981,Candidate_981,"Deep Learning, Java, AWS",1,B.Tech,AWS Certified,Data Analyst,31651,14,1
+982,Candidate_982,"Cloud Computing, Power BI",0,M.Sc,Google Data Analytics,Cloud Engineer,55051,10,1
+983,Candidate_983,"Python, C++, SQL, Machine Learning, Cloud Computing",10,B.Sc,AWS Certified,Data Analyst,46184,14,1
+984,Candidate_984,"SQL, Power BI, Data Analysis",5,M.Sc,AWS Certified,Software Engineer,107984,12,1
+985,Candidate_985,"Data Analysis, SQL",0,M.Tech,TensorFlow Certificate,Data Analyst,64051,5,1
+986,Candidate_986,"Power BI, Java, Cloud Computing, SQL, AWS",3,B.Tech,AWS Certified,Cloud Engineer,113930,14,1
+987,Candidate_987,"AWS, Machine Learning, SQL, C++, Power BI",5,MBA,TensorFlow Certificate,Cloud Engineer,114045,14,1
+988,Candidate_988,"AWS, Deep Learning, Java, C++, Data Analysis",10,MBA,Microsoft Azure,Cloud Engineer,44472,6,1
+989,Candidate_989,"SQL, Machine Learning, Cloud Computing, Java, Data Analysis",9,MBA,AWS Certified,Data Scientist,38329,4,1
+990,Candidate_990,"Deep Learning, Power BI, Data Analysis, Machine Learning, AWS",1,MBA,TensorFlow Certificate,Data Analyst,84220,2,0
+991,Candidate_991,"Power BI, Python, Cloud Computing, Java, Data Analysis",10,M.Tech,AWS Certified,Cloud Engineer,36397,0,1
+992,Candidate_992,"AWS, Machine Learning, Power BI",5,M.Tech,TensorFlow Certificate,ML Engineer,65525,12,1
+993,Candidate_993,"C++, Cloud Computing, Power BI, Python",0,M.Sc,Google Data Analytics,Cloud Engineer,113820,10,1
+994,Candidate_994,"Deep Learning, SQL, Power BI, Machine Learning",2,B.Tech,Microsoft Azure,Software Engineer,91330,4,0
+995,Candidate_995,"Cloud Computing, Power BI",9,B.Tech,None,Data Analyst,100553,2,0
+996,Candidate_996,"Machine Learning, Data Analysis, Power BI, AWS, C++",2,MBA,AWS Certified,Cloud Engineer,92812,4,0
+997,Candidate_997,"SQL, C++",4,M.Sc,TensorFlow Certificate,Software Engineer,32096,3,1
+998,Candidate_998,"Machine Learning, Power BI",4,B.Tech,Microsoft Azure,Cloud Engineer,55279,9,1
+999,Candidate_999,"Cloud Computing, Machine Learning, Data Analysis",4,M.Sc,Google Data Analytics,Cloud Engineer,56201,3,1
+1000,Candidate_1000,"C++, SQL, Python",3,M.Sc,AWS Certified,Cloud Engineer,45078,13,1
